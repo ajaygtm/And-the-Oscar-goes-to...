@@ -6,14 +6,14 @@ Even though we already know [the answer](https://www.youtube.com/watch?v=aboZctr
   
 I thought of asking __Deep Thought"__. Well, you [know.](https://www.youtube.com/watch?v=ucKnpvPaAeM).
 
-So I took this project to predict the Academy Awards (Oscar) winners for 2018 with the help of machine learning algorithms. 
+So I took this project to predict the 90th Academy Awards winners (2018) with the help of machine learning algorithms. 
 
 [Click ahead to skip to see what's in my results box](https://www.youtube.com/watch?v=f9ypxDxlK0c)
 
 # Data
 
 The data used for the project is extracted/scraped from various public sites like wikipedia, IMDB, etc.
-You can read further about here.
+You can read further about it in the extract folder.
 
 The categories considered for the project are:
 * Best Picture
@@ -21,13 +21,14 @@ The categories considered for the project are:
 * Best Actor
 * Best Actress
 * Best Supporting Actor
-* Best Supporting ACtress
+* Best Supporting Actress
 
 
 # Analysis:
 
 * Data Cleaning 
 * Preliminary Analysis 
+
 [Both Done](https://www.youtube.com/watch?v=0tJGk4ofc18).
 
 The corresponding code and the jupyter notebook are provided in the analysis folder.
