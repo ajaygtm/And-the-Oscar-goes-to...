@@ -39,13 +39,13 @@ satellite | Satellite Awards
 nbr | National Board of Review
 
 
-### Note
+### Note:
 The data pertaining to the awards listed above is extracted from Wikipedia. 
 
-### Another Note
+### Another Note..
 Since, the HTML structure/CSS selectors for the required data varies depending on the wikipedia pages, a unique code is not provided for scraping Wikipedia.
 
-### Another Note
+### Another Note...
 Okay, this is the last note. 
 I have provided a sample code used in this project for scraping the wikipedia page.
 
