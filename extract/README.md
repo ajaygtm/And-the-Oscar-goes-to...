@@ -28,6 +28,7 @@ A strong indicators to "Oscar Success" are the other movie awards presented in t
 
 Feature name | Award Name 
 -------------| ---------- 
+oscar | Academy Awards
 critics_choice | Critics Choice Awards
 sag | Screen Actors Guild
 bafta | British Academy Film Awards
@@ -39,7 +40,15 @@ nbr | National Board of Review
 
 
 ### Note
-The data pertaining to the awards listed above is extracted from Wikipedia. Since, the html structure of the each wikipedia page varies, a unique code is not provided for scraping. 
+The data pertaining to the awards listed above is extracted from Wikipedia. 
+
+### Another Note
+Since, the HTML structure/CSS selectors for the required data varies depending on the wikipedia pages, a unique code is not provided for scraping Wikipedia.
+
+### Another Note
+Okay, this is the last note. 
+I have provided a sample code used in this project for scraping the wikipedia page.
+
 
 
 
