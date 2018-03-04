@@ -29,14 +29,16 @@ XGBoost
 
 # Results:
 Viola! Here's my prediction for the 90th Academy Awards
+
+
 Award | Prediction | Movie | Who actually Won? 
 ------| ---------- | ----- | ----------------
-Picture |
-Director | 
-Actor | 
-Actress |
-Supporting Actor |
-Supporting Actress |
+Picture | The Shape of Water | The Shape of Water | 
+Director | Guillermo Del Toro | The Shape of Water
+Actor | Gary Oldman | Darkest Hour | 
+Actress | Frances McDormand | Three Billboards Outside Ebbing, Missouri
+Supporting Actor | Sam Rockwell | Three Billboards Outside Ebbing, Missouri
+Supporting Actress | Allison Janney | I, Tonya
 
 Update this
 
