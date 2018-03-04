@@ -1,0 +1,141 @@
+actress_name,href,oscar,movie_name,sag,golden_globe,bafta,critics_choice,satellite,nbr,certificate,imdb_rating,meta_score,runtime,year,rt_audience_score,rt_critic_score,distributor,domestic,genre,worldwide
+Whoopi Goldberg,https://en.wikipedia.org/wiki/Whoopi_Goldberg,1,Ghost,0,1,1,0,0,0,PG-13,7,52,127,1990,3.5,6.8,Paramount,217631306,Romance,505702588
+Annette Bening,https://en.wikipedia.org/wiki/Annette_Bening,0,The Grifters,0,0,0,0,0,0,R,7,86,110,1990,3.5,8,Miramax,13446769,Crime,13446769
+Lorraine Bracco,https://en.wikipedia.org/wiki/Lorraine_Bracco,0,Goodfellas,0,0,0,0,0,0,A,8.7,89,146,1990,4.3,9,Warner Bros.,46836214,Crime,46836214
+Diane Ladd,https://en.wikipedia.org/wiki/Diane_Ladd,0,Wild at Heart,0,0,0,0,0,0,R,7.2,52,125,1990,3.8,6,Samuel Goldwyn,14560247,Crime,14560247
+Mary McDonnell,https://en.wikipedia.org/wiki/Mary_McDonnell,0,Dances with Wolves,0,0,0,0,0,0,PG-13,8,72,181,1990,3.6,7.5,Orion Pictures,184208848,Western,424208848
+Mercedes Ruehl,https://en.wikipedia.org/wiki/Mercedes_Ruehl,1,The Fisher King,0,1,0,0,0,0,R,7.6,61,137,1991,3.6,6.9,TriStar,41895491,Fantasy,41895491
+Diane Ladd,https://en.wikipedia.org/wiki/Diane_Ladd,0,Rambling Rose,0,0,0,0,0,0,R,6.7,70,112,1991,3,7.2,New Line,6266621,Period,6266621
+Juliette Lewis,https://en.wikipedia.org/wiki/Juliette_Lewis,0,Cape Fear,0,0,0,0,0,0,A,7.3,73,128,1991,3.5,7.1,Universal,79091969,Thriller,182291969
+Kate Nelligan,https://en.wikipedia.org/wiki/Kate_Nelligan,0,The Prince of Tides,0,0,0,0,0,0,R,6.7,65,132,1991,3.5,6.5,Columbia,74787599,Drama,74787599
+Jessica Tandy,https://en.wikipedia.org/wiki/Jessica_Tandy,0,Fried Green Tomatoes,0,0,0,0,0,0,PG-13,7.7,64,130,1991,3.8,6.7,Universal,82418501,Comedy,119418501
+Marisa Tomei,https://en.wikipedia.org/wiki/Marisa_Tomei,1,My Cousin Vinny,0,0,0,0,0,0,R,7.5,68,120,1992,3.5,6.8,Fox,52929168,Comedy,64088552
+Judy Davis,https://en.wikipedia.org/wiki/Judy_Davis,0,Husbands and Wives,0,0,0,0,0,1,R,7.6,80,108,1992,3.9,8.2,TriStar,10555619,Romance,10555619
+Joan Plowright,https://en.wikipedia.org/wiki/Joan_Plowright,0,Enchanted April,0,1,0,0,0,0,PG,7.4,70,95,1991,3.9,7,Miramax,13200170,Period,13200170
+Vanessa Redgrave,https://en.wikipedia.org/wiki/Vanessa_Redgrave,0,Howards End,0,0,0,0,0,0,PG,7.5,89,240,1992,3.8,8.3,Sony Classics,26126837,Period,26126837
+Miranda Richardson,https://en.wikipedia.org/wiki/Miranda_Richardson,0,Damage,0,0,1,0,0,0,R,6.9,70,111,1992,3.5,6.9,New Line,7532911,Drama,7532911
+Anna Paquin,https://en.wikipedia.org/wiki/Anna_Paquin,1,The Piano,0,0,0,0,0,0,R,7.6,89,121,1993,3.8,8.2,Miramax,40157856,Romance,40157856
+Holly Hunter,https://en.wikipedia.org/wiki/Holly_Hunter,0,The Firm,0,0,0,0,0,0,R,6.8,58,154,1993,3.2,6.2,Paramount,158348367,Thriller,270248367
+Rosie Perez,https://en.wikipedia.org/wiki/Rosie_Perez,0,Fearless,0,0,0,0,0,0,R,7.1,75,122,1993,3.6,7.8,Warner Bros.,6995302,Drama,6995302
+Winona Ryder,https://en.wikipedia.org/wiki/Winona_Ryder,0,The Age of Innocence,0,1,0,0,0,1,PG,7.2,83,139,1993,3.5,7.2,Columbia,32255440,Period,32255440
+Emma Thompson,https://en.wikipedia.org/wiki/Emma_Thompson,0,In the Name of the Father,0,0,0,0,0,0,R,8.1,84,133,1993,4,7.8,Universal,25096862,Thriller,65796862
+Dianne Wiest,https://en.wikipedia.org/wiki/Dianne_Wiest,1,Bullets over Broadway,1,1,0,0,0,0,R,7.5,86,98,1994,3.8,7.9,Miramax,13383747,Period,13383747
+Rosemary Harris,https://en.wikipedia.org/wiki/Rosemary_Harris,0,Tom & Viv,0,0,0,0,0,1,PG-13,6.5,60,115,1994,3.3,4.8,Miramax,538534,Romance,538534
+Helen Mirren,https://en.wikipedia.org/wiki/Helen_Mirren,0,The Madness of King George,0,0,0,0,0,0,PG-13,7.2,89,104,1994,3.6,7.8,Samuel Goldwyn,15238689,Period,15238689
+Uma Thurman,https://en.wikipedia.org/wiki/Uma_Thurman,0,Pulp Fiction,0,0,0,0,0,0,A,8.9,94,154,1994,4.2,9.1,Miramax,107928762,Crime,213928762
+Jennifer Tilly,https://en.wikipedia.org/wiki/Jennifer_Tilly,0,Bullets over Broadway,0,0,0,0,0,0,R,7.5,79,98,1994,3.8,7.9,Miramax,13383747,Period,13383747
+Mira Sorvino,https://en.wikipedia.org/wiki/Mira_Sorvino,1,Mighty Aphrodite,0,1,0,1,0,1,R,7.1,59,95,1995,3.5,6.8,Miramax,6468498,Romance,6468498
+Joan Allen,https://en.wikipedia.org/wiki/Joan_Allen,0,Nixon,0,0,0,0,0,0,R,7.1,66,192,1995,3.5,6.8,Buena Vista,13681765,Thriller,13681765
+Kathleen Quinlan,https://en.wikipedia.org/wiki/Kathleen_Quinlan,0,Apollo 13,0,0,0,0,0,0,PG,7.6,77,140,1995,3.6,8.2,Universal,173837933,Action,355237933
+Mare Winningham,https://en.wikipedia.org/wiki/Mare_Winningham,0,Georgia,0,0,0,0,0,0,R,6.5,81,115,1995,3.2,7,Miramax,1110104,Musical,1110104
+Kate Winslet,https://en.wikipedia.org/wiki/Kate_Winslet,0,Sense and Sensibility,1,0,1,0,0,0,PG,7.7,84,136,1995,3.9,8,Sony / Columbia,43182776,Period,134582776
+Juliette Binoche,https://en.wikipedia.org/wiki/Juliette_Binoche,1,The English Patient,0,0,1,0,0,1,R,7.4,87,162,1996,3.6,7.6,Miramax,78676425,Romance,231976425
+Joan Allen,https://en.wikipedia.org/wiki/Joan_Allen,0,The Crucible,0,0,0,1,0,0,PG-13,6.8,75,124,1996,3.2,7.3,Fox,7343114,Period,7343114
+Lauren Bacall,https://en.wikipedia.org/wiki/Lauren_Bacall,0,The Mirror Has Two Faces,1,1,0,0,0,0,PG-13,6.5,68,126,1996,3.5,5.4,Sony / Columbia,41083864,Romance,41083864
+Barbara Hershey,https://en.wikipedia.org/wiki/Barbara_Hershey,0,The Portrait of a Lady,0,0,0,0,0,0,PG-13,6.3,61,144,1996,3.2,5.5,Gramercy,3692836,Period,3692836
+Marianne Jean-Baptiste,https://en.wikipedia.org/wiki/Marianne_Jean-Baptiste,0,Secrets & Lies,0,0,0,0,0,0,R,8,91,105,1996,4.1,8.6,October,13417292,Drama,13417292
+Kim Basinger,https://en.wikipedia.org/wiki/Kim_Basinger,1,L.A. Confidential,1,1,0,0,0,0,R,8.3,90,138,1997,3.9,8.8,Warner Bros.,64616940,Crime,126216940
+Joan Cusack,https://en.wikipedia.org/wiki/Joan_Cusack,0,In & Out,0,0,0,1,1,0,PG-13,6.3,70,90,1997,2.9,6.8,Paramount,63856929,Romance,63856929
+Minnie Driver,https://en.wikipedia.org/wiki/Minnie_Driver,0,Good Will Hunting,0,0,0,0,0,0,R,8.3,70,126,1997,3.9,8.1,Miramax,138433435,Drama,225933435
+Julianne Moore,https://en.wikipedia.org/wiki/Julianne_Moore,0,Boogie Nights,0,0,0,0,1,0,R,7.9,85,155,1997,3.6,8.1,New Line,26400640,Drama,43101594
+Gloria Stuart,https://en.wikipedia.org/wiki/Gloria_Stuart,0,Titanic,1,0,0,0,0,0,UA,7.8,75,194,1997,3.4,8,Paramount,659363944,Romance,2187463944
+Judi Dench,https://en.wikipedia.org/wiki/Judi_Dench,1,Shakespeare in Love,0,0,1,0,0,0,R,7.2,87,123,1998,3.5,8.3,Miramax,100317794,Period,289317794
+Kathy Bates,https://en.wikipedia.org/wiki/Kathy_Bates,0,Primary Colors,1,0,0,1,0,0,R,6.7,70,143,1998,3.1,7.2,Universal,39001187,Drama,52090187
+Brenda Blethyn,https://en.wikipedia.org/wiki/Brenda_Blethyn,0,Little Voice,0,0,0,0,0,0,R,7,68,97,1998,3.5,7.1,Miramax,4611784,Musical,4611784
+Rachel Griffiths,https://en.wikipedia.org/wiki/Rachel_Griffiths,0,Hilary and Jackie,0,0,0,0,0,0,R,7.4,78,121,1998,3.8,7.5,October,4912892,Musical,4912892
+Lynn Redgrave,https://en.wikipedia.org/wiki/Lynn_Redgrave,0,Gods and Monsters,0,1,0,0,0,0,R,7.5,74,105,1998,3.8,8.4,Lions Gate,6451628,Period,6451628
+Angelina Jolie,https://en.wikipedia.org/wiki/Angelina_Jolie,1,"Girl, Interrupted",1,1,0,1,0,0,R,7.4,51,127,1999,3.5,5.8,Sony / Columbia,28912646,Drama,48350205
+Toni Collette,https://en.wikipedia.org/wiki/Toni_Collette,0,The Sixth Sense,0,0,0,0,0,0,PG-13,8.1,64,107,1999,3.9,7.6,Buena Vista,293506292,Horror,672806292
+Catherine Keener,https://en.wikipedia.org/wiki/Catherine_Keener,0,Being John Malkovich,0,0,0,0,1,0,R,7.8,90,112,1999,3.6,8.1,USA Films,22863596,Fantasy,22863596
+Samantha Morton,https://en.wikipedia.org/wiki/Samantha_Morton,0,Sweet and Lowdown,0,0,0,0,0,0,PG-13,7.3,70,95,1999,3.6,6.8,Sony Classics,4197015,Period,4197015
+Chloe Sevigny,https://en.wikipedia.org/wiki/Chlo%C3%AB_Sevigny,0,Boys Don't Cry,0,0,0,0,0,0,R,7.6,86,118,1999,3.8,7.9,Fox Searchlight,11540607,Drama,11540607
+Marcia Gay Harden,https://en.wikipedia.org/wiki/Marcia_Gay_Harden,1,Pollock,0,0,0,0,0,0,R,7,77,122,2000,3.5,7,Sony Classics,8598593,Drama,10558970
+Judi Dench,https://en.wikipedia.org/wiki/Judi_Dench,0,Chocolat,1,0,0,0,0,0,PG-13,7.3,64,121,2000,3.6,6,Miramax,71509363,Romance,152699946
+Kate Hudson,https://en.wikipedia.org/wiki/Kate_Hudson,0,Almost Famous,0,1,0,0,1,0,R,7.9,90,122,2000,3.8,7.9,DreamWorks,32534850,Musical,47383689
+Frances McDormand,https://en.wikipedia.org/wiki/Frances_McDormand,0,Almost Famous,0,0,0,1,0,0,R,7.9,90,122,2000,3.8,7.9,DreamWorks,32534850,Musical,47383689
+Julie Walters,https://en.wikipedia.org/wiki/Julie_Walters,0,Billy Elliot,0,0,1,0,0,0,R,7.7,74,110,2000,3.5,7.3,Focus Features,21995263,Musical,109280263
+Jennifer Connelly,https://en.wikipedia.org/wiki/Jennifer_Connelly,1,A Beautiful Mind,0,1,1,1,1,0,PG-13,8.2,72,135,2001,3.9,7.2,Universal,170742341,Period,313542341
+Helen Mirren,https://en.wikipedia.org/wiki/Helen_Mirren,0,Gosford Park,1,0,0,0,0,0,R,7.3,90,131,2001,3.5,7.5,USA Films,41308615,Period,87754044
+Maggie Smith,https://en.wikipedia.org/wiki/Maggie_Smith,0,Gosford Park,0,0,0,0,1,0,R,7.3,90,131,2001,3.5,7.5,USA Films,41308615,Period,87754044
+Marisa Tomei,https://en.wikipedia.org/wiki/Marisa_Tomei,0,In the Bedroom,0,0,0,0,0,0,R,7.5,86,130,2001,3.8,7.9,Miramax,35930604,Drama,43368779
+Kate Winslet,https://en.wikipedia.org/wiki/Kate_Winslet,0,Iris,0,0,0,0,0,0,R,7.1,76,91,2001,3.6,7.1,Miramax,5594617,Period,16153953
+Catherine Zeta-Jones,https://en.wikipedia.org/wiki/Catherine_Zeta-Jones,1,Chicago,1,0,1,1,0,0,PG-13,7.2,82,113,2002,3.5,8,Miramax,170687518,Musical,306776732
+Kathy Bates,https://en.wikipedia.org/wiki/Kathy_Bates,0,About Schmidt,0,0,0,0,0,1,R,7.2,85,125,2002,3.2,7.7,New Line,65016287,Comedy,105834556
+Julianne Moore,https://en.wikipedia.org/wiki/Julianne_Moore,0,The Hours,0,0,0,0,0,0,PG-13,7.6,80,110,2002,3.8,7.4,Paramount,41675994,Drama,108846072
+Queen Latifah,https://en.wikipedia.org/wiki/Queen_Latifah,0,Chicago,0,0,0,0,0,0,PG-13,7.2,82,113,2002,3.5,8,Miramax,170687518,Musical,306776732
+Meryl Streep,https://en.wikipedia.org/wiki/Meryl_Streep,0,Adaptation,0,0,0,0,0,0,R,7.7,83,114,2002,3.6,8.2,Sony / Columbia,22498520,Comedy,32801173
+Renee Zellweger,https://en.wikipedia.org/wiki/Ren%C3%A9e_Zellweger,1,Cold Mountain,1,1,1,1,0,0,R,7.2,73,154,2003,3.4,6.7,Miramax,95636509,War,173013509
+Shohreh Aghdashloo,https://en.wikipedia.org/wiki/Shohreh_Aghdashloo,0,House of Sand and Fog,0,0,0,0,0,0,R,7.6,71,126,2003,3.6,7.1,DreamWorks,13040288,Thriller,16942795
+Patricia Clarkson,https://en.wikipedia.org/wiki/Patricia_Clarkson,0,Pieces of April,0,0,0,0,1,0,PG-13,7.1,70,80,2003,3.4,7.1,United Artists,2528664,Comedy,3272028
+Marcia Gay Harden,https://en.wikipedia.org/wiki/Marcia_Gay_Harden,0,Mystic River,0,0,0,0,0,0,A,8,84,138,2003,3.8,7.8,Warner Bros.,90135191,Crime,156822020
+Holly Hunter,https://en.wikipedia.org/wiki/Holly_Hunter,0,Thirteen,0,0,0,0,0,0,R,6.8,70,100,2003,3.4,7.3,Fox Searchlight,4601043,Drama,10128960
+Cate Blanchett,https://en.wikipedia.org/wiki/Cate_Blanchett,1,The Aviator,1,0,1,0,0,0,UA,7.5,77,170,2004,3.5,7.8,Miramax,102610330,Period,213741459
+Laura Linney,https://en.wikipedia.org/wiki/Laura_Linney,0,Kinsey,0,0,0,0,0,0,R,7.1,79,118,2004,3.5,7.6,Fox Searchlight,10254979,Period,16918723
+Virginia Madsen,https://en.wikipedia.org/wiki/Virginia_Madsen,0,Sideways,0,0,0,1,0,0,R,7.5,94,126,2004,3.5,8.5,Fox Searchlight,71503593,Comedy,109706931
+Sophie Okonedo,https://en.wikipedia.org/wiki/Sophie_Okonedo,0,Hotel Rwanda,0,0,0,0,0,0,PG-13,8.1,79,121,2004,4,8,United Artists,23530892,Drama,33882243
+Natalie Portman,https://en.wikipedia.org/wiki/Natalie_Portman,0,Closer,0,1,0,0,0,0,R,7.3,65,104,2004,3.5,6.6,Sony / Columbia,33987757,Romance,115505027
+Rachel Weisz,https://en.wikipedia.org/wiki/Rachel_Weisz,1,The Constant Gardener,1,1,0,0,0,0,R,7.4,82,129,2005,3.5,7.6,Focus Features,33579797,Thriller,82466670
+Amy Adams,https://en.wikipedia.org/wiki/Amy_Adams,0,Junebug,0,0,0,1,0,0,PG-13,7.5,81,96,2005,3.5,7.5,Sony Classics,2678691,Comedy,3399228
+Catherine Keener,https://en.wikipedia.org/wiki/Catherine_Keener,0,Capote,0,0,0,0,0,0,R,7.4,88,114,2005,3.6,8.2,Sony Classics,28750530,Drama,49233161
+Frances McDormand,https://en.wikipedia.org/wiki/Frances_McDormand,0,North Country,0,0,0,0,0,0,R,7.3,68,126,2005,3.5,6.7,Warner Bros.,18337722,Drama,25211175
+Michelle Williams,https://en.wikipedia.org/wiki/Michelle_Williams_(actress),0,Brokeback Mountain,0,0,0,1,0,0,A,7.7,87,134,2005,3.5,8.2,Focus Features,83043761,Western,178062759
+Jennifer Hudson,https://en.wikipedia.org/wiki/Jennifer_Hudson,1,Dreamgirls,1,1,1,1,1,0,PG-13,6.5,76,130,2006,3.5,7.2,Paramount (DreamWorks),103365956,Musical,154937680
+Adriana Barraza,https://en.wikipedia.org/wiki/Adriana_Barraza,0,Babel,0,0,0,0,0,0,R,7.5,69,143,2006,3.5,6.7,Paramount Vantage,34302837,Drama,135330182
+Cate Blanchett,https://en.wikipedia.org/wiki/Cate_Blanchett,0,Notes on a Scandal,0,0,0,0,0,0,R,7.4,73,92,2006,3.8,7.5,Fox Searchlight,17510118,Drama,49752391
+Abigail Breslin,https://en.wikipedia.org/wiki/Abigail_Breslin,0,Little Miss Sunshine,0,0,0,0,0,0,R,7.8,80,101,2006,4,7.7,Fox Searchlight,59891098,Comedy,100523181
+Rinko Kikuchi,https://en.wikipedia.org/wiki/Rinko_Kikuchi,0,Babel,0,0,0,0,0,0,R,7.5,69,143,2006,3.5,6.7,Paramount Vantage,34302837,Drama,135330182
+Tilda Swinton,https://en.wikipedia.org/wiki/Tilda_Swinton,1,Michael Clayton,0,0,1,0,0,0,A,7.3,82,119,2007,3.5,7.6,Warner Bros.,49033882,Thriller,92991835
+Cate Blanchett,https://en.wikipedia.org/wiki/Cate_Blanchett,0,I'm Not There,0,1,0,0,0,0,R,7,73,135,2007,3.5,7,Weinstein Company,4017609,Musical,11664116
+Ruby Dee,https://en.wikipedia.org/wiki/Ruby_Dee,0,American Gangster,1,0,0,0,0,0,R,7.8,76,157,2007,4,7,Universal,130164645,Crime,266465037
+Saoirse Ronan,https://en.wikipedia.org/wiki/Saoirse_Ronan,0,Atonement,0,0,0,0,0,0,R,7.8,85,123,2007,3.9,7.4,Focus Features,50927067,Period,129266061
+Amy Ryan,https://en.wikipedia.org/wiki/Amy_Ryan,0,Gone Baby Gone,0,0,0,1,1,1,R,7.7,72,114,2007,3.9,7.7,Miramax,20300218,Thriller,34619699
+Penelope Cruz,https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz,1,Vicky Cristina Barcelona,0,0,1,0,0,1,PG-13,7.1,70,96,2008,3.6,6.9,MGM (Weinstein),23216709,Comedy,96409300
+Amy Adams,https://en.wikipedia.org/wiki/Amy_Adams,0,Doubt,0,0,0,0,0,0,PG-13,7.5,68,104,2008,3.8,7,Miramax,33446470,Drama,50907234
+Viola Davis,https://en.wikipedia.org/wiki/Viola_Davis,0,Doubt,0,0,0,0,0,0,PG-13,7.5,68,104,2008,3.8,7,Miramax,33446470,Drama,50907234
+Taraji P. Henson,https://en.wikipedia.org/wiki/Taraji_P._Henson,0,The Curious Case of Benjamin Button,0,0,0,0,0,0,PG-13,7.8,70,166,2008,3.8,7.1,Paramount,127509326,Fantasy,333932083
+Marisa Tomei,https://en.wikipedia.org/wiki/Marisa_Tomei,0,The Wrestler,0,0,0,0,0,0,R,7.9,81,109,2008,4,8.4,Fox Searchlight,26238243,Sports,44703995
+Mo'Nique,https://en.wikipedia.org/wiki/Mo%27Nique,1,Precious,1,1,1,1,1,0,R,7.3,79,110,2009,3.6,7.8,Lions Gate,47566524,Drama,63647833
+Penelope Cruz,https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz,0,Nine,0,0,0,0,0,0,PG-13,5.8,49,118,2009,3,5.1,Weinstein Company,19676965,Drama,53998806
+Vera Farmiga,https://en.wikipedia.org/wiki/Vera_Farmiga,0,Up in the Air,0,0,0,0,0,0,R,7.4,83,109,2009,3.8,8.1,Paramount,83823381,Comedy,166842739
+Maggie Gyllenhaal,https://en.wikipedia.org/wiki/Maggie_Gyllenhaal,0,Crazy Heart,0,0,0,0,0,0,R,7.3,83,112,2009,3.6,7.4,Fox Searchlight,39464306,Drama,47405566
+Anna Kendrick,https://en.wikipedia.org/wiki/Anna_Kendrick,0,Up in the Air,0,0,0,0,0,1,R,7.4,83,109,2009,3.8,8.1,Paramount,83823381,Comedy,166842739
+Melissa Leo,https://en.wikipedia.org/wiki/Melissa_Leo,1,The Fighter,1,1,0,1,0,0,R,7.8,79,116,2010,4.2,7.8,Paramount,93617009,Sports,129190869
+Amy Adams,https://en.wikipedia.org/wiki/Amy_Adams,0,The Fighter,0,0,0,0,0,0,R,7.8,79,116,2010,4.2,7.8,Paramount,93617009,Sports,129190869
+Helena Bonham Carter,https://en.wikipedia.org/wiki/Helena_Bonham_Carter,0,The King's Speech,0,0,1,0,0,0,R,8,88,118,2010,4.3,8.6,Weinstein Company,138797449,Drama,414211549
+Hailee Steinfeld,https://en.wikipedia.org/wiki/Hailee_Steinfeld,0,True Grit,0,0,0,0,0,0,PG-13,7.6,80,110,2010,4,8.3,Paramount,171243005,Western,252276927
+Jacki Weaver,https://en.wikipedia.org/wiki/Jacki_Weaver,0,Animal Kingdom,0,0,0,0,1,1,R,7.3,83,113,2010,3.9,8,Sony Classics,1044039,Crime,6793982
+Octavia Spencer,https://en.wikipedia.org/wiki/Octavia_Spencer,1,The Help,1,1,1,1,0,0,UA,8.1,62,146,2011,4.2,7,Buena Vista,169708112,Drama,216639112
+Berenice Bejo,https://en.wikipedia.org/wiki/B%C3%A9r%C3%A9nice_Bejo,0,The Artist,0,0,0,0,0,0,U,7.9,89,100,2011,4.2,8.8,A24,21101724,Comedy,28801724
+Jessica Chastain,https://en.wikipedia.org/wiki/Jessica_Chastain,0,The Help,0,0,0,0,0,0,UA,8.1,62,146,2011,4.2,7,Buena Vista,169708112,Drama,216639112
+Melissa McCarthy,https://en.wikipedia.org/wiki/Melissa_McCarthy,0,Bridesmaids,0,0,0,0,0,0,R,6.8,75,125,2011,4,7.6,Universal,169106725,Comedy,288383523
+Janet McTeer,https://en.wikipedia.org/wiki/Janet_McTeer,0,Albert Nobbs,0,0,0,0,0,0,R,6.7,57,113,2011,3.2,6,Roadside Attractions,3014696,Drama,5634828
+Anne Hathaway,https://en.wikipedia.org/wiki/Anne_Hathaway,1,Les Miserables,0,0,0,0,0,0,A,7.6,63,158,2012,4,6.9,Universal,148809770,Musical,441809770
+Amy Adams,https://en.wikipedia.org/wiki/Amy_Adams,0,The Master,0,0,0,0,0,0,A,7.1,86,138,2012,3.5,8.1,Weinstein Company,16377274,Drama,28258060
+Sally Field,https://en.wikipedia.org/wiki/Sally_Field,0,Lincoln,0,0,0,0,0,0,U,7.4,86,150,2012,4,8,Buena Vista,182207973,Drama,275293450
+Helen Hunt,https://en.wikipedia.org/wiki/Helen_Hunt,0,The Sessions,0,0,0,0,0,0,R,7.2,79,95,2012,3.9,7.9,Fox Searchlight,6002451,Drama,9138338
+Jacki Weaver,https://en.wikipedia.org/wiki/Jacki_Weaver,0,Silver Linings Playbook,0,0,0,0,0,0,R,7.8,81,122,2012,4.2,8.2,Weinstein Company,132092958,Comedy,236412453
+Lupita Nyong'o,https://en.wikipedia.org/wiki/Lupita_Nyong%27o,1,12 Years a Slave,1,0,0,1,0,0,A,8.1,96,134,2013,4.3,8.9,Fox Searchlight,56671993,Drama,187733202
+Sally Hawkins,https://en.wikipedia.org/wiki/Sally_Hawkins,0,Blue Jasmine,0,0,0,0,0,0,PG-13,7.3,78,98,2013,3.9,8.1,Sony Classics,33405481,Comedy,97505481
+Jennifer Lawrence,https://en.wikipedia.org/wiki/Jennifer_Lawrence,0,American Hustle,0,1,1,0,0,0,A,7.3,90,138,2013,3.9,8.2,Sony / Columbia,150117807,Drama,251171807
+Julia Roberts,https://en.wikipedia.org/wiki/Julia_Roberts,0,August: Osage County,0,0,0,0,0,0,A,7.2,58,121,2013,3.5,6.4,Weinstein Company,37738810,Comedy,74188937
+June Squibb,https://en.wikipedia.org/wiki/June_Squibb,0,Nebraska,0,0,0,0,1,0,UA,7.7,86,115,2013,4,8.1,Paramount,17654912,Comedy,27682872
+Patricia Arquette,https://en.wikipedia.org/wiki/Patricia_Arquette,1,Boyhood,1,1,1,1,1,0,A,7.9,100,165,2014,4,9.2,IFC,25352281,Drama,44495281
+Laura Dern,https://en.wikipedia.org/wiki/Laura_Dern,0,Wild,0,0,0,0,0,0,R,7.1,76,115,2014,3.9,7.5,Fox Searchlight,37880356,Drama,52501541
+Keira Knightley,https://en.wikipedia.org/wiki/Keira_Knightley,0,The Imitation Game,0,0,0,0,0,0,PG-13,8,73,114,2014,4.2,7.7,Weinstein Company,91125683,Drama,233555708
+Emma Stone,https://en.wikipedia.org/wiki/Emma_Stone,0,Birdman,0,0,0,0,0,0,A,7.8,88,119,2014,4,8.5,Fox Searchlight,42340598,Comedy,103215094
+Meryl Streep,https://en.wikipedia.org/wiki/Meryl_Streep,0,Into the Woods,0,0,0,0,0,0,PG,6,69,125,2014,3.2,6.6,Buena Vista,128002372,Musical,213116401
+Alicia Vikander,https://en.wikipedia.org/wiki/Alicia_Vikander,1,The Danish Girl,1,0,0,1,1,0,A,7.1,66,119,2015,3.8,6.6,Focus Features,11114018,Drama,64191523
+Jennifer Jason Leigh,https://en.wikipedia.org/wiki/Jennifer_Jason_Leigh,0,The Hateful Eight,0,0,0,0,0,1,A,7.8,68,167,2015,3.9,7.3,Weinstein Company,54117416,Western,155760117
+Rooney Mara,https://en.wikipedia.org/wiki/Rooney_Mara,0,Carol,0,0,0,0,0,0,R,7.2,95,118,2015,3.9,8.6,Weinstein Company,12711491,Drama,40272135
+Rachel McAdams,https://en.wikipedia.org/wiki/Rachel_McAdams,0,Spotlight,0,0,0,0,0,0,R,8.1,93,128,2015,4.3,8.8,Open Road Films,45055776,Drama,88346473
+Kate Winslet,https://en.wikipedia.org/wiki/Kate_Winslet,0,Steve Jobs,0,1,1,0,0,0,R,7.2,82,122,2015,3.8,7.6,Universal,17766658,Drama,34441873
+Viola Davis,https://en.wikipedia.org/wiki/Viola_Davis,1,Fences,1,1,1,1,0,0,UA,7.2,79,139,2016,3.9,7.7,Paramount,57682904,Drama,64414761
+Naomie Harris,https://en.wikipedia.org/wiki/Naomie_Harris,0,Moonlight,0,0,0,0,1,1,R,7.5,99,111,2016,4,9,A24,27854932,Drama,65046687
+Nicole Kidman,https://en.wikipedia.org/wiki/Nicole_Kidman,0,Lion,0,0,0,0,0,0,PG-13,8.1,69,118,2016,4.3,7.3,Weinstein Company,51738905,Drama,140312928
+Octavia Spencer,https://en.wikipedia.org/wiki/Octavia_Spencer,0,Hidden Figures,0,0,0,0,0,0,PG,7.8,74,127,2016,4.5,7.6,Fox,169607287,Drama,235950607
+Michelle Williams,https://en.wikipedia.org/wiki/Michelle_Williams_(actress),0,Manchester by the Sea,0,0,0,0,0,0,R,7.9,96,137,2016,4,8.8,Roadside Attractions,47695371,Drama,77540122
+Mary J. Blige,https://en.wikipedia.org/wiki/Mary_J._Blige,0,Mudbound,0,0,0,0,0,0,R,7.5,85,134,2017,4.2,8.3,Netflix,36011,Drama,36011
+Allison Janney,https://en.wikipedia.org/wiki/Allison_Janney,0,"I, Tonya",1,1,1,1,0,0,R,7.6,77,120,2017,4.2,7.8,Neon,28314408,Comedy,28314408
+Lesley Manville,https://en.wikipedia.org/wiki/Lesley_Manville,0,Phantom Thread,0,0,0,0,0,0,R,7.9,90,130,2017,3.8,8.5,Focus Features,18152094,Drama,32252094
+Laurie Metcalf,https://en.wikipedia.org/wiki/Laurie_Metcalf,0,Lady Bird,0,0,0,0,0,1,R,7.7,94,94,2017,4,8.7,A24,46632130,Comedy,52232130
+Octavia Spencer,https://en.wikipedia.org/wiki/Octavia_Spencer,0,The Shape of Water,0,0,0,0,0,0,R,7.8,87,123,2017,3.9,8.4,Fox Searchlight,54480844,Fantasy,95762358
