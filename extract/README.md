@@ -23,11 +23,11 @@ genre | Movie Genre | Box Office Mojo
 domestic | Domestic Box Office Collection | Box Office Mojo
 worldwide | Worldwide Box Office Collection | Box Office Mojo  
 
-The film awards are proven to be main factor influencing oscar winners
-The following are the film awards considered in this prediction. (All the awards details are scraped from the Wikipedia)
+## Awards
+A strong indicators to "Oscar Success" are the other movie awards presented in the weeks preceding the Academy awards. So, for this project, the following awards are considered. 
 
 Feature name | Award Name 
--------------| ----------
+-------------| ---------- 
 critics_choice | Critics Choice Awards
 sag | Screen Actors Guild
 bafta | British Academy Film Awards
@@ -37,6 +37,9 @@ wga | Writers Guild of America
 satellite | Satellite Awards
 nbr | National Board of Review
 
+
+### Note
+The data pertaining to the awards listed above is extracted from Wikipedia. Since, the html structure of the each wikipedia page varies, a unique code is not provided for scraping. 
 
 
 
