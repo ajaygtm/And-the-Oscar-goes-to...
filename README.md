@@ -39,7 +39,7 @@ Director | Guillermo Del Toro | [The Shape of Water] (https://www.youtube.com/wa
 Actor | Gary Oldman | [Darkest Hour] (https://www.youtube.com/watch?v=LtJ60u7SUSw) | 
 Actress | Frances McDormand | [Three Billboards Outside Ebbing, Missouri] (https://www.youtube.com/watch?v=Jit3YhGx5pU)|
 Supporting Actor | Sam Rockwell | [Three Billboards Outside Ebbing, Missouri] (https://www.youtube.com/watch?v=Jit3YhGx5pU) |
-Supporting Actress | Allison Janney | [I, Tonya] (https://www.youtube.com/watch?v=OXZQ5DfSAAc)|
+Supporting Actress | Allison Janney | [I, Tonya] (https://www.rottentomatoes.com/m/i_tonya/)|
 
 Update this
 
