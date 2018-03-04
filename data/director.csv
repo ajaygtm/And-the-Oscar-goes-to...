@@ -1,0 +1,141 @@
+director_name,href,oscar,movie_name,golden_globe,bafta,critics_choice,dga,satellite,nbr,certificate,imdb_rating,meta_score,runtime,year,rt_audience_score,rt_critic_score,distributor,domestic,genre,worldwide
+Kevin Costner,https://en.wikipedia.org/wiki/Kevin_Costner,1,Dances with Wolves,1,0,0,1,0,1,PG-13,8,72,181,1990,3.6,7.5,Orion Pictures,184208848,Western,424208848
+Francis Ford Coppola,https://en.wikipedia.org/wiki/Francis_Ford_Coppola,0,The Godfather Part III,0,0,0,0,0,0,R,7.6,60,162,1990,3.8,6.4,Paramount,66666062,Crime,136766062
+Stephen Frears,https://en.wikipedia.org/wiki/Stephen_Frears,0,The Grifters,0,0,0,0,0,0,R,7,86,110,1990,3.5,8,Miramax,13446769,Crime,13446769
+Barbet Schroeder,https://en.wikipedia.org/wiki/Barbet_Schroeder,0,Reversal of Fortune,0,0,0,0,0,0,R,7.3,93,111,1990,3.6,7.8,Warner Bros.,15445131,Thriller,15445131
+Martin Scorsese,https://en.wikipedia.org/wiki/Martin_Scorsese,0,Goodfellas,0,1,0,0,0,0,A,8.7,89,146,1990,4.3,9,Warner Bros.,46836214,Crime,46836214
+Jonathan Demme,https://en.wikipedia.org/wiki/Jonathan_Demme,1,The Silence of the Lambs,0,0,0,1,0,1,A,8.6,85,118,1991,4.2,8.6,Orion Pictures,130742922,Thriller,272742922
+Barry Levinson,https://en.wikipedia.org/wiki/Barry_Levinson,0,Bugsy,0,0,0,0,0,0,R,6.8,80,136,1991,3.4,7,TriStar,49114016,Crime,49114016
+Ridley Scott,https://en.wikipedia.org/wiki/Ridley_Scott,0,Thelma & Louise,0,0,0,0,0,0,R,7.4,88,116,1991,3.4,7.8,MGM,45360915,Crime,45360915
+John Singleton,https://en.wikipedia.org/wiki/John_Singleton,0,Boyz n the Hood,0,0,0,0,0,0,R,7.8,76,112,1991,3.8,8.4,Columbia,57504069,Crime,57504069
+Oliver Stone,https://en.wikipedia.org/wiki/Oliver_Stone,0,JFK,1,0,0,0,0,0,R,8,72,189,1991,3.9,7.7,Warner Bros.,70405498,Thriller,205405498
+Clint Eastwood,https://en.wikipedia.org/wiki/Clint_Eastwood,1,Unforgiven,1,0,0,1,1,0,R,8.2,85,130,1992,4,8.7,Warner Bros.,101157447,Western,159157447
+Robert Altman,https://en.wikipedia.org/wiki/Robert_Altman,0,The Player,0,1,0,0,0,0,R,7.6,86,124,1992,3.8,8.8,New Line,21706101,Comedy,21706101
+Martin Brest,https://en.wikipedia.org/wiki/Martin_Brest,0,Scent of a Woman,0,0,0,0,0,0,R,8,59,156,1992,3.9,7.1,Universal,63095253,Drama,134095253
+James Ivory,https://en.wikipedia.org/wiki/James_Ivory_(director),0,Howards End,0,0,0,0,0,1,PG,7.5,89,240,1992,3.8,8.3,Sony Classics,26126837,Period,26126837
+Neil Jordan,https://en.wikipedia.org/wiki/Neil_Jordan,0,The Crying Game,0,0,0,0,0,0,R,7.3,90,112,1992,3.5,8.3,Miramax,62548947,Thriller,62548947
+Steven Spielberg,https://en.wikipedia.org/wiki/Steven_Spielberg,1,Schindler's List,1,1,0,1,0,0,A,8.9,93,195,1993,4.3,9,Universal,96065768,War,321306305
+Robert Altman,https://en.wikipedia.org/wiki/Robert_Altman,0,Short Cuts,0,0,0,0,0,0,R,7.7,79,188,1993,3.9,7.8,Fine Line,6110979,Drama,6110979
+Jane Campion,https://en.wikipedia.org/wiki/Jane_Campion,0,The Piano,0,0,0,0,0,0,R,7.6,89,121,1993,3.8,8.2,Miramax,40157856,Romance,40157856
+James Ivory,https://en.wikipedia.org/wiki/James_Ivory_(director),0,The Remains of the Day,0,0,0,0,0,0,PG,7.9,84,134,1993,3.9,8.4,Columbia,23237911,Period,23237911
+Jim Sheridan,https://en.wikipedia.org/wiki/Jim_Sheridan,0,In the Name of the Father,0,0,0,0,1,0,R,8.1,84,133,1993,4,7.8,Universal,25096862,Thriller,65796862
+Robert Zemeckis,https://en.wikipedia.org/wiki/Robert_Zemeckis,1,Forrest Gump,1,0,0,1,0,0,PG-13,8.8,82,142,1994,4.2,7.2,Paramount,330252182,Comedy,677945399
+Woody Allen,https://en.wikipedia.org/wiki/Woody_Allen,0,Bullets over Broadway,0,0,0,0,0,0,R,7.5,79,98,1994,3.8,7.9,Miramax,13383747,Period,13383747
+Krzysztof Kieslowski,https://en.wikipedia.org/wiki/Krzysztof_Kie%C5%9Blowski,0,Three Colors: Red,0,0,0,0,0,0,R,8.1,100,99,1994,4.2,8.8,Miramax,3581969,Foreign,3581969
+Robert Redford,https://en.wikipedia.org/wiki/Robert_Redford,0,Quiz Show,0,0,0,0,0,0,PG-13,7.5,88,133,1994,3.6,8.2,Buena Vista,24822619,Period,24822619
+Quentin Tarantino,https://en.wikipedia.org/wiki/Quentin_Tarantino,0,Pulp Fiction,0,0,0,0,0,1,A,8.9,94,154,1994,4.2,9.1,Miramax,107928762,Crime,213928762
+Mel Gibson,https://en.wikipedia.org/wiki/Mel_Gibson,1,Braveheart,1,0,1,0,1,0,R,8.4,68,178,1995,3.9,7.2,Paramount,75609945,War,210409945
+Mike Figgis,https://en.wikipedia.org/wiki/Mike_Figgis,0,Leaving Las Vegas,0,0,0,0,0,0,R,7.6,82,111,1995,3.6,7.7,MGM,32029928,Drama,32029928
+Chris Noonan,https://en.wikipedia.org/wiki/Chris_Noonan,0,Babe,0,0,0,0,0,0,G,6.8,83,91,1995,3,8.3,Universal,63658910,Comedy,254134910
+Michael Radford,https://en.wikipedia.org/wiki/Michael_Radford,0,Il Postino,0,1,0,0,0,0,PG,7.7,81,108,1995,4.2,8,Miramax,21848932,Foreign,21848932
+Tim Robbins,https://en.wikipedia.org/wiki/Tim_Robbins,0,Dead Man Walking,0,0,0,0,0,0,R,7.5,80,122,1995,3.8,8.2,Gramercy,39363635,Drama,39363635
+Anthony Minghella,https://en.wikipedia.org/wiki/Anthony_Minghella,1,The English Patient,0,0,1,1,0,0,R,7.4,87,162,1996,3.6,7.6,Miramax,78676425,Romance,231976425
+Joel Coen,https://en.wikipedia.org/wiki/Coen_brothers,0,Fargo,0,1,0,0,1,1,R,8.1,85,98,1996,3.9,8.7,Gramercy,24611975,Crime,60611975
+Milos Forman,https://en.wikipedia.org/wiki/Milo%C5%A1_Forman,0,The People vs. Larry Flynt,1,0,0,0,0,0,R,7.3,79,129,1996,3.5,7.7,Sony / Columbia,20300385,Comedy,20300385
+Scott Hicks,https://en.wikipedia.org/wiki/Scott_Hicks,0,Shine,0,0,0,0,0,0,PG-13,7.7,87,105,1996,3.9,8,Fine Line,35892330,Musical,35892330
+Mike Leigh,https://en.wikipedia.org/wiki/Mike_Leigh,0,Secrets & Lies,0,0,0,0,0,0,R,8,91,105,1996,4.1,8.6,October,13417292,Drama,13417292
+James Cameron,https://en.wikipedia.org/wiki/James_Cameron,1,Titanic,1,0,1,1,1,0,UA,7.8,75,194,1997,3.4,8,Paramount,659363944,Romance,2187463944
+Peter Cattaneo,https://en.wikipedia.org/wiki/Peter_Cattaneo,0,The Full Monty,0,0,0,0,0,0,R,7.2,75,91,1997,3.4,7.5,Fox Searchlight,45950122,Comedy,257938649
+Atom Egoyan,https://en.wikipedia.org/wiki/Atom_Egoyan,0,The Sweet Hereafter,0,0,0,0,0,0,R,7.6,90,112,1997,4,8.9,Fine Line,3263585,Drama,3263585
+Curtis Hanson,https://en.wikipedia.org/wiki/Curtis_Hanson,0,L.A. Confidential,0,0,0,0,0,1,R,8.3,90,138,1997,3.9,8.8,Warner Bros.,64616940,Crime,126216940
+Gus Van Sant,https://en.wikipedia.org/wiki/Gus_Van_Sant,0,Good Will Hunting,0,0,0,0,0,0,R,8.3,70,126,1997,3.9,8.1,Miramax,138433435,Drama,225933435
+Steven Spielberg,https://en.wikipedia.org/wiki/Steven_Spielberg,1,Saving Private Ryan,1,0,1,1,0,0,A,8.6,90,169,1998,4,8.6,DreamWorks,216540909,War,481840909
+Roberto Benigni,https://en.wikipedia.org/wiki/Roberto_Benigni,0,Life Is Beautiful,0,0,0,0,0,0,PG-13,8.6,59,116,1998,4.3,7.5,Miramax,57563264,Foreign,229163264
+John Madden,https://en.wikipedia.org/wiki/John_Madden_(director),0,Shakespeare in Love,0,0,0,0,0,0,R,7.2,87,123,1998,3.5,8.3,Miramax,100317794,Period,289317794
+Terrence Malick,https://en.wikipedia.org/wiki/Terrence_Malick,0,The Thin Red Line,0,0,0,0,1,0,R,7.6,78,170,1998,3.5,7.2,Fox,36400491,War,98126565
+Peter Weir,https://en.wikipedia.org/wiki/Peter_Weir,0,The Truman Show,0,1,0,0,0,0,PG,8.1,90,103,1998,3.5,8.4,Paramount,125618201,Comedy,264118201
+Sam Mendes,https://en.wikipedia.org/wiki/Sam_Mendes,1,American Beauty,1,0,1,1,0,0,A,8.4,86,122,1999,3.9,8.2,DreamWorks,130096601,Drama,356296601
+Lasse Hallstrom,https://en.wikipedia.org/wiki/Lasse_Hallstr%C3%B6m,0,The Cider House Rules,0,0,0,0,0,0,PG-13,7.4,75,126,1999,3.5,6.6,Miramax,57545092,Period,88545092
+Spike Jonze,https://en.wikipedia.org/wiki/Spike_Jonze,0,Being John Malkovich,0,0,0,0,0,0,R,7.8,90,112,1999,3.6,8.1,USA Films,22863596,Fantasy,22863596
+Michael Mann,https://en.wikipedia.org/wiki/Michael_Mann,0,The Insider,0,0,0,0,1,0,R,7.9,84,157,1999,3.9,8.1,Buena Vista,29089912,Thriller,60289912
+M. Night Shyamalan,https://en.wikipedia.org/wiki/M._Night_Shyamalan,0,The Sixth Sense,0,0,0,0,0,0,PG-13,8.1,64,107,1999,3.9,7.6,Buena Vista,293506292,Horror,672806292
+Steven Soderbergh,https://en.wikipedia.org/wiki/Steven_Soderbergh,1,Traffic,0,0,0,0,1,1,R,7.6,86,147,2000,3.6,8.1,USA Films,124115725,Crime,207515725
+Stephen Daldry,https://en.wikipedia.org/wiki/Stephen_Daldry,0,Billy Elliot,0,0,0,0,0,0,R,7.7,74,110,2000,3.5,7.3,Focus Features,21995263,Musical,109280263
+Ang Lee,https://en.wikipedia.org/wiki/Ang_Lee,0,"Crouching Tiger, Hidden Dragon",1,0,0,1,1,0,PG-13,7.9,93,120,2000,3.6,8.6,Sony Classics,128078872,Foreign,213525736
+Ridley Scott,https://en.wikipedia.org/wiki/Ridley_Scott,0,Gladiator,0,0,0,0,0,0,R,8.5,67,155,2000,3.9,7.2,DreamWorks,187705427,Drama,457640427
+Steven Soderbergh,https://en.wikipedia.org/wiki/Steven_Soderbergh,0,Erin Brockovich,0,0,1,0,1,0,R,7.3,73,131,2000,3.5,7.3,Universal,125595205,Drama,256271286
+Ron Howard,https://en.wikipedia.org/wiki/Ron_Howard,1,A Beautiful Mind,0,0,1,1,0,0,PG-13,8.2,72,135,2001,3.9,7.2,Universal,170742341,Period,313542341
+Robert Altman,https://en.wikipedia.org/wiki/Robert_Altman,0,Gosford Park,1,0,0,0,0,0,R,7.3,90,131,2001,3.5,7.5,USA Films,41308615,Period,87754044
+Peter Jackson,https://en.wikipedia.org/wiki/Peter_Jackson,0,The Lord of the Rings: The Fellowship of the Ring,0,1,0,0,0,0,PG-13,8.8,92,178,2001,4.2,8.2,New Line,315544750,Fantasy,871530324
+David Lynch,https://en.wikipedia.org/wiki/David_Lynch,0,Mulholland Drive,0,0,0,0,0,0,R,8,83,147,2001,3.8,7.6,Universal,7220243,Thriller,20117339
+Ridley Scott,https://en.wikipedia.org/wiki/Ridley_Scott,0,Black Hawk Down,0,0,0,0,0,0,A,7.7,74,144,2001,3.8,7,Sony (Revolution),108638745,War,172989651
+Roman Polanski,https://en.wikipedia.org/wiki/Roman_Polanski,1,The Pianist,0,1,0,0,0,0,R,8.5,85,150,2002,4.2,8.2,Focus Features,32572577,War,120072577
+Pedro Almodovar,https://en.wikipedia.org/wiki/Pedro_Almod%C3%B3var,0,Talk to Her,0,0,0,0,0,0,R,8,86,112,2002,4.2,8.1,Sony Classics,9285469,Foreign,51001550
+Stephen Daldry,https://en.wikipedia.org/wiki/Stephen_Daldry,0,The Hours,0,0,0,0,0,0,PG-13,7.6,80,110,2002,3.8,7.4,Paramount,41675994,Drama,108846072
+Rob Marshall,https://en.wikipedia.org/wiki/Rob_Marshall,0,Chicago,0,0,0,1,0,0,PG-13,7.2,82,113,2002,3.5,8,Miramax,170687518,Musical,306776732
+Martin Scorsese,https://en.wikipedia.org/wiki/Martin_Scorsese,0,Gangs of New York,1,0,0,0,0,0,A,7.5,72,167,2002,3.5,7.1,Miramax,77812000,Crime,193772504
+Peter Jackson,https://en.wikipedia.org/wiki/Peter_Jackson,1,The Lord of the Rings: The Return of the King,1,0,1,1,0,0,PG-13,8.9,94,201,2003,3.8,8.7,New Line,377845905,Fantasy,1119929521
+Sofia Coppola,https://en.wikipedia.org/wiki/Sofia_Coppola,0,Lost in Translation,0,0,0,0,0,0,R,7.8,89,102,2003,3.6,8.4,Focus Features,44585453,Comedy,119723856
+Clint Eastwood,https://en.wikipedia.org/wiki/Clint_Eastwood,0,Mystic River,0,0,0,0,1,0,A,8,84,138,2003,3.8,7.8,Warner Bros.,90135191,Crime,156822020
+Fernando Meirelles,https://en.wikipedia.org/wiki/Fernando_Meirelles,0,City of God,0,0,0,0,0,0,R,8.6,79,130,2002,4.3,8.3,Miramax,7564459,Foreign,30641770
+Peter Weir,https://en.wikipedia.org/wiki/Peter_Weir,0,Master and Commander: The Far Side of the World,0,1,0,0,0,0,PG-13,7.4,81,138,2003,3.5,7.6,Fox,93927920,War,212011111
+Clint Eastwood,https://en.wikipedia.org/wiki/Clint_Eastwood,1,Million Dollar Baby,1,0,0,1,1,0,UA,8.1,86,132,2004,3.9,8.4,Warner Bros.,100492203,Sports,216763646
+Taylor Hackford,https://en.wikipedia.org/wiki/Taylor_Hackford,0,Ray,0,0,0,0,0,0,PG-13,7.7,73,212,2004,3.9,7.3,Universal,75331600,Musical,124731534
+Mike Leigh,https://en.wikipedia.org/wiki/Mike_Leigh,0,Vera Drake,0,1,0,0,0,0,R,7.7,83,125,2004,3.9,7.9,Fine Line,3775283,Period,13267869
+Alexander Payne,https://en.wikipedia.org/wiki/Alexander_Payne,0,Sideways,0,0,0,0,0,0,R,7.5,94,126,2004,3.5,8.5,Fox Searchlight,71503593,Comedy,109706931
+Martin Scorsese,https://en.wikipedia.org/wiki/Martin_Scorsese,0,The Aviator,0,0,1,0,0,0,UA,7.5,77,170,2004,3.5,7.8,Miramax,102610330,Period,213741459
+Ang Lee,https://en.wikipedia.org/wiki/Ang_Lee,1,Brokeback Mountain,1,1,1,1,1,1,A,7.7,87,134,2005,3.5,8.2,Focus Features,83043761,Western,178062759
+George Clooney,https://en.wikipedia.org/wiki/George_Clooney,0,"Good Night, and Good Luck",0,0,0,0,0,0,PG,7.5,80,93,2005,3.6,8.1,Warner Independent,31558003,Period,54641191
+Paul Haggis,https://en.wikipedia.org/wiki/Paul_Haggis,0,Crash,0,0,0,0,0,0,A,7.8,69,112,2004,3.9,7.3,Lions Gate,54580300,Drama,98410061
+Bennett Miller,https://en.wikipedia.org/wiki/Bennett_Miller,0,Capote,0,0,0,0,0,0,R,7.4,88,114,2005,3.6,8.2,Sony Classics,28750530,Drama,49233161
+Steven Spielberg,https://en.wikipedia.org/wiki/Steven_Spielberg,0,Munich,0,0,0,0,0,0,A,7.6,74,164,2005,3.6,7.4,Universal,47403685,Thriller,130358911
+Martin Scorsese,https://en.wikipedia.org/wiki/Martin_Scorsese,1,The Departed,1,0,1,1,0,1,A,8.5,85,151,2006,4.2,8.2,Warner Bros.,132384315,Crime,291465034
+Clint Eastwood,https://en.wikipedia.org/wiki/Clint_Eastwood,0,Letters from Iwo Jima,0,0,0,0,1,0,R,7.9,89,141,2006,3.9,8.2,Warner Bros.,13756082,War,68673228
+Stephen Frears,https://en.wikipedia.org/wiki/Stephen_Frears,0,The Queen,0,0,0,0,0,0,PG-13,7.3,91,162,2006,3.5,8.4,Miramax,56441711,Drama,123384128
+Paul Greengrass,https://en.wikipedia.org/wiki/Paul_Greengrass,0,United 93,0,1,0,0,0,0,R,7.6,90,111,2006,3.6,8.2,Universal,31483450,Thriller,76286096
+Alejandro G. Inarritu,https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu,0,Babel,0,0,0,0,0,0,R,7.5,69,143,2006,3.5,6.7,Paramount Vantage,34302837,Drama,135330182
+Joel Cohen and Ethan Cohen,https://en.wikipedia.org/wiki/Coen_brothers,1,No Country for Old Men,0,0,0,1,0,0,R,8.1,91,122,2007,4,8.7,Miramax,74283625,Crime,171627166
+Paul Thomas Anderson,https://en.wikipedia.org/wiki/Paul_Thomas_Anderson,0,There Will Be Blood,0,0,0,0,0,0,R,8.1,93,158,2007,4,8.4,Paramount Vantage,40222514,Drama,76181545
+Tony Gilroy,https://en.wikipedia.org/wiki/Tony_Gilroy,0,Michael Clayton,0,0,0,0,0,0,A,7.3,82,119,2007,3.5,7.6,Warner Bros.,49033882,Thriller,92991835
+Jason Reitman,https://en.wikipedia.org/wiki/Jason_Reitman,0,Juno,0,0,0,0,0,0,PG-13,7.5,81,96,2007,4.2,8.1,Fox Searchlight,143495265,Comedy,231411584
+Julian Schnabel,https://en.wikipedia.org/wiki/Julian_Schnabel,0,The Diving Bell and the Butterfly,1,0,0,0,0,0,PG-13,8,92,112,2007,4,8.2,Miramax,6003227,Drama,19777647
+Danny Boyle,https://en.wikipedia.org/wiki/Danny_Boyle,1,Slumdog Millionaire,1,1,1,1,1,0,R,8,86,120,2008,4,8.4,Fox Searchlight,141319928,Drama,377910544
+Stephen Daldry,https://en.wikipedia.org/wiki/Stephen_Daldry,0,The Reader,0,0,0,0,0,0,R,7.6,58,124,2008,3.8,6.4,Weinstein Company,34194407,Period,108901967
+David Fincher,https://en.wikipedia.org/wiki/David_Fincher,0,The Curious Case of Benjamin Button,0,0,0,0,1,1,PG-13,7.8,70,166,2008,3.8,7.1,Paramount,127509326,Fantasy,333932083
+Ron Howard,https://en.wikipedia.org/wiki/Ron_Howard,0,Frost/Nixon,0,0,0,0,0,0,R,7.7,80,122,2008,3.9,7.9,Universal,18622031,Drama,27426335
+Gus Van Sant,https://en.wikipedia.org/wiki/Gus_Van_Sant,0,Milk,0,0,0,0,0,0,R,7.6,84,128,2008,4,8,Focus Features,31841299,Drama,54586584
+Kathryn Bigelow,https://en.wikipedia.org/wiki/Kathryn_Bigelow,1,The Hurt Locker,0,1,1,1,1,0,R,7.6,94,131,2008,3.9,8.5,Summit Entertainment,17017811,War,49230772
+James Cameron,https://en.wikipedia.org/wiki/James_Cameron,0,Avatar,1,0,0,0,1,0,PG-13,7.8,83,162,2009,4.2,7.5,Fox,760507625,Sci-Fi,2787965087
+Lee Daniels,https://en.wikipedia.org/wiki/Lee_Daniels,0,Precious,0,0,0,0,0,0,R,7.3,79,110,2009,3.6,7.8,Lions Gate,47566524,Drama,63647833
+Jason Reitman,https://en.wikipedia.org/wiki/Jason_Reitman,0,Up in the Air,0,0,0,0,0,0,R,7.4,83,109,2009,3.8,8.1,Paramount,83823381,Comedy,166842739
+Quentin Tarantino,https://en.wikipedia.org/wiki/Quentin_Tarantino,0,Inglourious Basterds,0,0,0,0,0,0,A,8.3,69,153,2009,4,7.8,Weinstein Company,120540719,War,321455689
+Tom Hooper,https://en.wikipedia.org/wiki/Tom_Hooper,1,The King's Speech,0,0,0,1,0,0,R,8,88,118,2010,4.3,8.6,Weinstein Company,138797449,Drama,414211549
+Darren Aronofsky,https://en.wikipedia.org/wiki/Darren_Aronofsky,0,Black Swan,0,0,0,0,0,0,R,8,79,108,2010,4,8.2,Fox Searchlight,106954678,Thriller,329398046
+"Joel Cohen, Ethan Cohen",https://en.wikipedia.org/wiki/Coen_brothers,0,True Grit,0,0,0,0,0,0,PG-13,7.6,80,110,2010,4,8.3,Paramount,171243005,Western,252276927
+David Fincher,https://en.wikipedia.org/wiki/David_Fincher,0,The Social Network,1,1,1,0,1,1,PG-13,7.7,95,120,2010,4.2,9,Sony / Columbia,96962694,Comedy,224920315
+David O. Russell,https://en.wikipedia.org/wiki/David_O._Russell,0,The Fighter,0,0,0,0,1,0,R,7.8,79,116,2010,4.2,7.8,Paramount,93617009,Sports,129190869
+Michel Hazanavicius,https://en.wikipedia.org/wiki/Michel_Hazanavicius,1,The Artist,0,1,1,1,0,0,U,7.9,89,100,2011,4.2,8.8,A24,21101724,Comedy,28801724
+Woody Allen,https://en.wikipedia.org/wiki/Woody_Allen,0,Midnight in Paris,0,0,0,0,0,0,PG-13,7.7,81,94,2011,4,7.8,Sony Classics,56817045,Romance,151119219
+Terrence Malick,https://en.wikipedia.org/wiki/Terrence_Malick,0,The Tree of Life,0,0,0,0,1,0,PG-13,6.8,85,139,2011,3.4,8.1,Fox Searchlight,13303319,Drama,54303319
+Alexander Payne,https://en.wikipedia.org/wiki/Alexander_Payne,0,The Descendants,0,0,0,0,0,0,A,7.3,84,115,2011,3.9,8.1,Fox Searchlight,82584160,Comedy,177243185
+Martin Scorsese,https://en.wikipedia.org/wiki/Martin_Scorsese,0,Hugo,1,0,0,0,0,1,U,7.5,83,126,2011,4,8.3,Paramount,73864507,Fantasy,185770160
+Ang Lee,https://en.wikipedia.org/wiki/Ang_Lee,1,Life of Pi,0,0,0,0,1,0,U,7.9,79,127,2012,4.2,7.9,Fox,124987023,Fantasy,609016565
+Michael Haneke,https://en.wikipedia.org/wiki/Michael_Haneke,0,Amour,0,0,0,0,0,0,UA,7.9,94,127,2012,4,8.7,Sony Classics,6739492,Foreign,19839492
+David O. Russell,https://en.wikipedia.org/wiki/David_O._Russell,0,Silver Linings Playbook,0,0,0,0,1,0,R,7.8,81,122,2012,4.2,8.2,Weinstein Company,132092958,Comedy,236412453
+Steven Spielberg,https://en.wikipedia.org/wiki/Steven_Spielberg,0,Lincoln,0,0,0,0,0,0,U,7.4,86,150,2012,4,8,Buena Vista,182207973,Drama,275293450
+Benh Zeitlin,https://en.wikipedia.org/wiki/Benh_Zeitlin,0,Beasts of the Southern Wild,0,0,0,0,0,0,PG-13,7.3,86,93,2012,3.9,8.2,Fox Searchlight,12795746,Drama,21107746
+Alfonso Cuaron,https://en.wikipedia.org/wiki/Alfonso_Cuar%C3%B3n,1,Gravity,0,0,0,1,0,0,UA,7.8,96,91,2013,4,9,Warner Bros.,274092705,Sci-Fi,723192705
+Steve McQueen,https://en.wikipedia.org/wiki/Steve_McQueen_(director),0,12 Years a Slave,0,0,0,0,1,0,A,8.1,96,134,2013,4.3,8.9,Fox Searchlight,56671993,Drama,187733202
+Alexander Payne,https://en.wikipedia.org/wiki/Alexander_Payne,0,Nebraska,0,0,0,0,0,0,UA,7.7,86,115,2013,4,8.1,Paramount,17654912,Comedy,27682872
+David O. Russell,https://en.wikipedia.org/wiki/David_O._Russell,0,American Hustle,0,0,0,0,1,0,A,7.3,90,138,2013,3.9,8.2,Sony / Columbia,150117807,Drama,251171807
+Martin Scorsese,https://en.wikipedia.org/wiki/Martin_Scorsese,0,The Wolf of Wall Street,0,0,0,0,0,0,A,8.2,75,180,2013,4,7.8,Paramount,116900694,Drama,392000694
+Alejandro G. Inarritu,https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu,1,Birdman,0,0,0,1,0,0,A,7.8,88,119,2014,4,8.5,Fox Searchlight,42340598,Comedy,103215094
+Wes Anderson,https://en.wikipedia.org/wiki/Wes_Anderson,0,The Grand Budapest Hotel,0,0,0,0,0,0,R,8.1,88,99,2014,4.2,8.4,Fox Searchlight,59301324,Comedy,174801324
+Richard Linklater,https://en.wikipedia.org/wiki/Richard_Linklater,0,Boyhood,1,1,1,0,1,0,A,7.9,100,165,2014,4,9.2,IFC,25352281,Drama,44495281
+Bennett Miller,https://en.wikipedia.org/wiki/Bennett_Miller,0,Foxcatcher,0,0,0,0,0,0,R,7,81,134,2014,3.5,7.9,Sony Classics,12096300,Drama,12096300
+Morten Tyldum,https://en.wikipedia.org/wiki/Morten_Tyldum,0,The Imitation Game,0,0,0,0,0,0,PG-13,8,73,114,2014,4.2,7.7,Weinstein Company,91125683,Drama,233555708
+Alejandro G. Inarritu,https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu,1,The Revenant,1,1,0,1,0,0,A,8,76,156,2015,4.2,7.9,Fox,183637894,Action,532950503
+Lenny Abrahamson,https://en.wikipedia.org/wiki/Lenny_Abrahamson,0,Room,0,0,0,0,0,0,R,8.2,86,118,2015,4.3,8.4,A24,14677654,Drama,35401758
+Tom McCarthy,https://en.wikipedia.org/wiki/Tom_McCarthy_(director),0,Spotlight,0,0,0,0,1,0,R,8.1,93,128,2015,4.3,8.8,Open Road Films,45055776,Drama,88346473
+Adam McKay,https://en.wikipedia.org/wiki/Adam_McKay,0,The Big Short,0,0,0,0,0,0,R,7.8,81,130,2015,4.2,7.8,Paramount,70259870,Drama,133440870
+George Miller,https://en.wikipedia.org/wiki/George_Miller_(director),0,Mad Max: Fury Road,0,0,1,0,0,0,UA,8.1,90,120,2015,4.2,8.6,Warner Bros.,154058340,Sci-Fi,378858340
+Damien Chazelle,https://en.wikipedia.org/wiki/Damien_Chazelle,1,La La Land,1,1,1,1,0,0,A,8.1,93,128,2016,4.2,8.7,Summit Entertainment,151101803,Musical,446090184
+Mel Gibson,https://en.wikipedia.org/wiki/Mel_Gibson,0,Hacksaw Ridge,0,0,0,0,1,0,R,8.2,71,139,2016,4.3,7.2,Lions Gate,67209615,Action,175302354
+Barry Jenkins,https://en.wikipedia.org/wiki/Barry_Jenkins,0,Moonlight,0,0,0,0,0,1,R,7.5,99,111,2016,4,9,A24,27854932,Drama,65046687
+Kenneth Lonergan,https://en.wikipedia.org/wiki/Kenneth_Lonergan,0,Manchester by the Sea,0,0,0,0,1,0,R,7.9,96,137,2016,4,8.8,Roadside Attractions,47695371,Drama,77540122
+Denis Villeneuve,https://en.wikipedia.org/wiki/Denis_Villeneuve,0,Arrival,0,0,0,0,0,0,UA,7.9,81,116,2016,4,8.4,Paramount,100546139,Sci-Fi,203388186
+Paul Thomas Anderson,https://en.wikipedia.org/wiki/Paul_Thomas_Anderson,0,Phantom Thread,0,0,0,0,0,0,R,7.9,90,130,2017,3.8,8.5,Focus Features,18152094,Drama,32252094
+Guillermo del Toro,https://en.wikipedia.org/wiki/Guillermo_del_Toro,0,The Shape of Water,1,1,1,1,0,0,R,7.8,87,123,2017,3.9,8.4,Fox Searchlight,54480844,Fantasy,95762358
+Greta Gerwig,https://en.wikipedia.org/wiki/Greta_Gerwig,0,Lady Bird,0,0,0,0,0,1,R,7.7,94,94,2017,4,8.7,A24,46632130,Comedy,52232130
+Christopher Nolan,https://en.wikipedia.org/wiki/Christopher_Nolan,0,Dunkirk,0,0,0,0,0,0,PG-13,8,94,106,2017,4,8.6,Warner Bros.,188373161,War,525573161
+Jordan Peele,https://en.wikipedia.org/wiki/Jordan_Peele,0,Get Out,0,0,0,0,1,0,R,7.7,84,104,2017,4.2,8.3,Universal,176040665,Horror,255017329
