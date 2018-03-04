@@ -1,8 +1,14 @@
 # And-the-Oscar-goes-to...
 
-Even though we already know the "Answer to the Ultimate Question of Life, the Universe, and Everything", calculated by an enormous supercomputer named Deep Thought over a period of 7.5 million years.  the answer is not particularly suitable to when it comes to an important question for all movie buffs. "Who's gonna win the Oscar?"
+Even though we already know [the answer](https://www.youtube.com/watch?v=aboZctrHfK8) to the "Ultimate Question of Life, the Universe, and Everything", calculated by an enormous supercomputer named _Deep Thought_ over a period of 7.5 million years, it is not particularly helpful when it comes to an important question of all time.
+
+#### "Who's gonna win the Oscar?"
   
-I don't wanna disturb "Deep Thought" with this trivial question. So I took it upon as a project with the help of machine learning algorithms to predict the Academy Awards (Oscar) winners for 2018. 
+I thought of asking "Deep Thought". Well, you [know.](https://www.youtube.com/watch?v=ucKnpvPaAeM).
+
+So I took this project to predict the Academy Awards (Oscar) winners for 2018 with the help of machine learning algorithms. 
+
+[Click ahead to skip to see what's in the results box](https://www.youtube.com/watch?v=1giVzxyoclE)
 
 # Data
 
@@ -18,7 +24,7 @@ The categories considered for the project are:
 * Best Supporting ACtress
 
 
-# Analysis:
+# Analysis and Prediction:
 
 
 # Algorithms Used:
@@ -29,19 +35,23 @@ The categories considered for the project are:
 
 
 # Results:
-Viola! Here's my prediction for the 90th Academy Awards
+Viola! Here's my prediction for the [90th Academy Awards.](http://oscar.go.com/)
 
 
-Award | Prediction | Movie | Who actually Won? 
+Award | Prediction | Movie | Winners? 
 ------| ---------- | ----- | ----------------
-Picture | The Shape of Water | [The Shape of Water] (https://www.youtube.com/watch?v=uiA4B5Y63IQ) | 
-Director | Guillermo Del Toro | [The Shape of Water] (https://www.youtube.com/watch?v=uiA4B5Y63IQ)
-Actor | Gary Oldman | [Darkest Hour] (http://www.youtube.com/watch?v=LtJ60u7SUSw) | 
-Actress | Frances McDormand | [Three Billboards Outside Ebbing, Missouri] (https://www.youtube.com/watch?v=Jit3YhGx5pU)|
-Supporting Actor | Sam Rockwell | [Three Billboards Outside Ebbing, Missouri] (https://www.youtube.com/watch?v=Jit3YhGx5pU) |
-Supporting Actress | Allison Janney | [I, Tonya] (https://www.rottentomatoes.com/m/i_tonya/)|
+Picture | The Shape of Water | [The Shape of Water](https://www.youtube.com/watch?v=uiA4B5Y63IQ) | 
+Director | Guillermo Del Toro | [The Shape of Water](https://www.youtube.com/watch?v=uiA4B5Y63IQ)
+Actor | Gary Oldman | [Darkest Hour](http://www.youtube.com/watch?v=LtJ60u7SUSw) | 
+Actress | Frances McDormand | [Three Billboards Outside Ebbing, Missouri](https://www.youtube.com/watch?v=Jit3YhGx5pU)|
+Supporting Actor | Sam Rockwell | [Three Billboards Outside Ebbing, Missouri](https://www.youtube.com/watch?v=Jit3YhGx5pU) |
+Supporting Actress | Allison Janney | [I, Tonya](https://www.youtube.com/watch?v=OXZQ5DfSAAc)|
 
-Update this
+Okay. Now, let's wait and see how my prediction turns out.
+
+### Note
+I will update the "Winners" column once the results are announced. 
+
 
 
 
