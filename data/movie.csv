@@ -1,0 +1,177 @@
+movie_name,href,oscar,critics_choice,sag,bafta,pga,dga,golden_globe_mc,golden_globe_drama,wga_as,wga_os,certificate,imdb_rating,meta_score,runtime,year,rt_audience_score,rt_critic_score,distributor,domestic,genre,worldwide
+Dances with Wolves,https://en.wikipedia.org/wiki/Dances_with_Wolves,1,0,0,0,1,1,0,1,1,0,PG-13,8,72,181,1990,3.6,7.5,Orion Pictures,184208848,Western,424208848
+Awakenings,https://en.wikipedia.org/wiki/Awakenings,0,0,0,0,0,0,0,0,0,0,PG-13,7.8,74,121,1990,3.8,6.7,Columbia,52096475,Drama,52096475
+Ghost,https://en.wikipedia.org/wiki/Ghost_(1990_film),0,0,0,0,0,0,0,0,0,0,PG-13,7,52,127,1990,3.5,6.8,Paramount,217631306,Romance,505702588
+The Godfather Part III,https://en.wikipedia.org/wiki/The_Godfather_Part_III,0,0,0,0,0,0,0,0,0,0,R,7.6,60,162,1990,3.8,6.4,Paramount,66666062,Crime,136766062
+Goodfellas,https://en.wikipedia.org/wiki/Goodfellas,0,0,0,1,0,0,0,0,0,0,A,8.7,89,146,1990,4.3,9,Warner Bros.,46836214,Crime,46836214
+The Silence of the Lambs,https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film),1,0,0,0,1,1,0,0,1,0,A,8.6,85,118,1991,4.2,8.6,Orion Pictures,130742922,Thriller,272742922
+Beauty and the Beast,https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film),0,0,0,0,0,0,1,0,0,0,UA,7.3,65,129,1991,3.8,8.4,Buena Vista,218967620,Animation,424967620
+Bugsy,https://en.wikipedia.org/wiki/Bugsy,0,0,0,0,0,0,0,1,0,0,R,6.8,80,136,1991,3.4,7,TriStar,49114016,Crime,49114016
+JFK,https://en.wikipedia.org/wiki/JFK_(film),0,0,0,0,0,0,0,0,0,0,R,8,72,189,1991,3.9,7.7,Warner Bros.,70405498,Thriller,205405498
+The Prince of Tides,https://en.wikipedia.org/wiki/The_Prince_of_Tides,0,0,0,0,0,0,0,0,0,0,R,6.7,65,132,1991,3.5,6.5,Columbia,74787599,Drama,74787599
+Unforgiven,https://en.wikipedia.org/wiki/Unforgiven,1,0,0,0,0,1,0,0,0,0,R,8.2,85,130,1992,4,8.7,Warner Bros.,101157447,Western,159157447
+The Crying Game,https://en.wikipedia.org/wiki/The_Crying_Game,0,0,0,0,1,0,0,0,0,1,R,7.3,90,112,1992,3.5,8.3,Miramax,62548947,Thriller,62548947
+A Few Good Men,https://en.wikipedia.org/wiki/A_Few_Good_Men,0,0,0,0,0,0,0,0,0,0,R,7.7,62,138,1992,3.6,7,Columbia,141340178,Thriller,243240178
+Howards End,https://en.wikipedia.org/wiki/Howards_End_(film),0,0,0,1,0,0,0,0,0,0,PG,7.5,89,240,1992,3.8,8.3,Sony Classics,26126837,Period,26126837
+Scent of a Woman,https://en.wikipedia.org/wiki/Scent_of_a_Woman_(1992_film),0,0,0,0,0,0,0,1,0,0,R,8,59,156,1992,3.9,7.1,Universal,63095253,Drama,134095253
+Schindler's List,https://en.wikipedia.org/wiki/Schindler%27s_List,1,0,0,1,1,1,0,1,1,0,A,8.9,93,195,1993,4.3,9,Universal,96065768,War,321306305
+The Fugitive,https://en.wikipedia.org/wiki/The_Fugitive_(1993_film),0,0,0,0,0,0,0,0,0,0,PG-13,7.8,88,130,1993,3.6,7.9,Warner Bros.,183875760,Action,368875760
+In the Name of the Father,https://en.wikipedia.org/wiki/In_the_Name_of_the_Father_(film),0,0,0,0,0,0,0,0,0,0,R,8.1,84,133,1993,4,7.8,Universal,25096862,Thriller,65796862
+The Piano,https://en.wikipedia.org/wiki/The_Piano,0,0,0,0,0,0,0,0,0,1,R,7.6,89,121,1993,3.8,8.2,Miramax,40157856,Romance,40157856
+The Remains of the Day,https://en.wikipedia.org/wiki/The_Remains_of_the_Day_(film),0,0,0,0,0,0,0,0,0,0,PG,7.9,84,134,1993,3.9,8.4,Columbia,23237911,Period,23237911
+Forrest Gump,https://en.wikipedia.org/wiki/Forrest_Gump,1,0,0,0,1,1,0,1,1,0,PG-13,8.8,82,142,1994,4.2,7.2,Paramount,330252182,Comedy,677945399
+Four Weddings and a Funeral,https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral,0,0,0,1,0,0,0,0,0,1,R,7.1,81,117,1994,3.2,7.6,Gramercy,52700832,Romance,245700832
+Pulp Fiction,https://en.wikipedia.org/wiki/Pulp_Fiction,0,0,0,0,0,0,0,0,0,0,A,8.9,94,154,1994,4.2,9.1,Miramax,107928762,Crime,213928762
+Quiz Show,https://en.wikipedia.org/wiki/Quiz_Show_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.5,88,133,1994,3.6,8.2,Buena Vista,24822619,Period,24822619
+The Shawshank Redemption,https://en.wikipedia.org/wiki/The_Shawshank_Redemption,0,0,0,0,0,0,0,0,0,0,UA,9.3,80,142,1994,4.5,8.2,Columbia,28341469,Period,28341469
+Braveheart,https://en.wikipedia.org/wiki/Braveheart,1,0,0,0,0,0,0,0,0,1,R,8.4,68,178,1995,3.9,7.2,Paramount,75609945,War,210409945
+Apollo 13,https://en.wikipedia.org/wiki/Apollo_13_(film),0,0,1,0,1,1,0,0,0,0,PG,7.6,77,140,1995,3.6,8.2,Universal,173837933,Action,355237933
+Babe,https://en.wikipedia.org/wiki/Babe_(film),0,0,0,0,0,0,1,0,0,0,G,6.8,83,91,1995,3,8.3,Universal,63658910,Comedy,254134910
+Il Postino ,https://en.wikipedia.org/wiki/Il_Postino:_The_Postman,0,0,0,0,0,0,0,0,0,0,PG,7.7,81,108,1995,4.2,8,Miramax,21848932,Foreign,21848932
+Sense and Sensibility,https://en.wikipedia.org/wiki/Sense_and_Sensibility_(film),0,1,0,1,0,0,0,1,1,0,PG,7.7,84,136,1995,3.9,8,Sony / Columbia,43182776,Period,134582776
+The English Patient,https://en.wikipedia.org/wiki/The_English_Patient_(film),1,0,0,1,1,1,0,1,0,0,R,7.4,87,162,1996,3.6,7.6,Miramax,78676425,Romance,231976425
+Fargo,https://en.wikipedia.org/wiki/Fargo_(film),0,1,0,0,0,0,0,0,0,1,R,8.1,85,98,1996,3.9,8.7,Gramercy,24611975,Crime,60611975
+Jerry Maguire,https://en.wikipedia.org/wiki/Jerry_Maguire,0,0,0,0,0,0,0,0,0,0,R,7.3,77,139,1996,3.4,7.6,Sony / Columbia,153952592,Comedy,273552592
+Secrets & Lies,https://en.wikipedia.org/wiki/Secrets_%26_Lies_(film),0,0,0,0,0,0,0,0,0,0,R,8,91,105,1996,4.1,8.6,October,13417292,Drama,13417292
+Shine,https://en.wikipedia.org/wiki/Shine_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.7,87,105,1996,3.9,8,Fine Line,35892330,Musical,35892330
+Titanic,https://en.wikipedia.org/wiki/Titanic_(1997_film),1,0,0,0,1,1,0,1,0,0,UA,7.8,75,194,1997,3.4,8,Paramount,659363944,Romance,2187463944
+As Good as It Gets,https://en.wikipedia.org/wiki/As_Good_as_It_Gets,0,0,0,0,0,0,1,0,0,1,PG-13,7.7,67,139,1997,3.5,7.2,Sony / Columbia,148478011,Romance,314178011
+The Full Monty,https://en.wikipedia.org/wiki/The_Full_Monty,0,0,1,1,0,0,0,0,0,0,R,7.2,75,91,1997,3.4,7.5,Fox Searchlight,45950122,Comedy,257938649
+Good Will Hunting,https://en.wikipedia.org/wiki/Good_Will_Hunting,0,0,0,0,0,0,0,0,0,0,R,8.3,70,126,1997,3.9,8.1,Miramax,138433435,Drama,225933435
+L.A. Confidential,https://en.wikipedia.org/wiki/L.A._Confidential_(film),0,1,0,0,0,0,0,0,1,0,R,8.3,90,138,1997,3.9,8.8,Warner Bros.,64616940,Crime,126216940
+Shakespeare in Love,https://en.wikipedia.org/wiki/Shakespeare_in_Love,1,0,1,1,0,0,1,0,0,1,R,7.2,87,123,1998,3.5,8.3,Miramax,100317794,Period,289317794
+Elizabeth,https://en.wikipedia.org/wiki/Elizabeth_(film),0,0,0,0,0,0,0,0,0,0,R,7.5,75,124,1998,3.9,7.3,Gramercy,30082699,Period,82150642
+Life Is Beautiful,https://en.wikipedia.org/wiki/Life_Is_Beautiful,0,0,0,0,0,0,0,0,0,0,PG-13,8.6,59,116,1998,4.3,7.5,Miramax,57563264,Foreign,229163264
+Saving Private Ryan,https://en.wikipedia.org/wiki/Saving_Private_Ryan,0,1,0,0,1,1,0,1,0,0,A,8.6,90,169,1998,4,8.6,DreamWorks,216540909,War,481840909
+The Thin Red Line,https://en.wikipedia.org/wiki/The_Thin_Red_Line_(1998_film),0,0,0,0,0,0,0,0,0,0,R,7.6,78,170,1998,3.5,7.2,Fox,36400491,War,98126565
+American Beauty,https://en.wikipedia.org/wiki/American_Beauty_(1999_film),1,1,1,1,1,1,0,1,0,1,A,8.4,86,122,1999,3.9,8.2,DreamWorks,130096601,Drama,356296601
+The Cider House Rules,https://en.wikipedia.org/wiki/The_Cider_House_Rules_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.4,75,126,1999,3.5,6.6,Miramax,57545092,Period,88545092
+The Green Mile,https://en.wikipedia.org/wiki/The_Green_Mile_(film),0,0,0,0,0,0,0,0,0,0,A,8.5,61,189,1999,4.2,6.9,Warner Bros.,136801374,Period,286801374
+The Insider,https://en.wikipedia.org/wiki/The_Insider_(film),0,0,0,0,0,0,0,0,0,0,R,7.9,84,157,1999,3.9,8.1,Buena Vista,29089912,Thriller,60289912
+The Sixth Sense,https://en.wikipedia.org/wiki/The_Sixth_Sense,0,0,0,0,0,0,0,0,0,0,PG-13,8.1,64,107,1999,3.9,7.6,Buena Vista,293506292,Horror,672806292
+Gladiator,https://en.wikipedia.org/wiki/Gladiator_(2000_film),1,1,0,1,1,0,0,1,0,0,R,8.5,67,155,2000,3.9,7.2,DreamWorks,187705427,Drama,457640427
+Chocolat,https://en.wikipedia.org/wiki/Chocolat_(2000_film),0,0,0,0,0,0,0,0,0,0,PG-13,7.3,64,121,2000,3.6,6,Miramax,71509363,Romance,152699946
+"Crouching Tiger, Hidden Dragon","https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon",0,0,0,0,0,1,0,0,0,0,PG-13,7.9,93,120,2000,3.6,8.6,Sony Classics,128078872,Foreign,213525736
+Erin Brockovich,https://en.wikipedia.org/wiki/Erin_Brockovich_(film),0,0,0,0,0,0,0,0,0,0,R,7.3,73,131,2000,3.5,7.3,Universal,125595205,Drama,256271286
+Traffic,https://en.wikipedia.org/wiki/Traffic_(2000_film),0,0,1,0,0,0,0,0,1,0,R,7.6,86,147,2000,3.6,8.1,USA Films,124115725,Crime,207515725
+A Beautiful Mind,https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film),1,1,0,0,0,1,0,1,1,0,PG-13,8.2,72,135,2001,3.9,7.2,Universal,170742341,Period,313542341
+Gosford Park,https://en.wikipedia.org/wiki/Gosford_Park,0,0,1,0,0,0,0,0,0,1,R,7.3,90,131,2001,3.5,7.5,USA Films,41308615,Period,87754044
+In the Bedroom,https://en.wikipedia.org/wiki/In_the_Bedroom,0,0,0,0,0,0,0,0,0,0,R,7.5,86,130,2001,3.8,7.9,Miramax,35930604,Drama,43368779
+The Lord of the Rings: The Fellowship of the Ring,https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring,0,0,0,1,0,0,0,0,0,0,PG-13,8.8,92,178,2001,4.2,8.2,New Line,315544750,Fantasy,871530324
+Moulin Rouge!,https://en.wikipedia.org/wiki/Moulin_Rouge!,0,0,0,0,1,0,1,0,0,0,PG-13,7.6,66,127,2001,3.8,7.1,Fox,57386607,Musical,179213434
+Chicago,https://en.wikipedia.org/wiki/Chicago_(2002_film),1,1,1,0,1,1,1,0,0,0,PG-13,7.2,82,113,2002,3.5,8,Miramax,170687518,Musical,306776732
+Gangs of New York,https://en.wikipedia.org/wiki/Gangs_of_New_York,0,0,0,0,0,0,0,0,0,0,A,7.5,72,167,2002,3.5,7.1,Miramax,77812000,Crime,193772504
+The Hours,https://en.wikipedia.org/wiki/The_Hours_(film),0,0,0,0,0,0,0,0,1,0,PG-13,7.6,80,110,2002,3.8,7.4,Paramount,41675994,Drama,108846072
+The Lord of the Rings: The Two Towers,https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers,0,0,0,0,0,0,0,0,0,0,PG-13,8.7,87,179,2002,4.2,8.5,New Line,342551365,Fantasy,926047111
+The Pianist,https://en.wikipedia.org/wiki/The_Pianist_(2002_film),0,0,0,1,0,0,0,0,0,0,R,8.5,85,150,2002,4.2,8.2,Focus Features,32572577,War,120072577
+The Lord of the Rings: The Return of the King,https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King,1,1,1,1,1,1,0,1,0,0,PG-13,8.9,94,201,2003,3.8,8.7,New Line,377845905,Fantasy,1119929521
+Lost in Translation,https://en.wikipedia.org/wiki/Lost_in_Translation_(film),0,0,0,0,0,0,1,0,0,1,R,7.8,89,102,2003,3.6,8.4,Focus Features,44585453,Comedy,119723856
+Master and Commander: The Far Side of the World,https://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World,0,0,0,0,0,0,0,0,0,0,PG-13,7.4,81,138,2003,3.5,7.6,Fox,93927920,War,212011111
+Mystic River,https://en.wikipedia.org/wiki/Mystic_River_(film),0,0,0,0,0,0,0,0,0,0,A,8,84,138,2003,3.8,7.8,Warner Bros.,90135191,Crime,156822020
+Seabiscuit,https://en.wikipedia.org/wiki/Seabiscuit_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.3,72,140,2003,3.4,7.1,Universal,120277854,Sports,148336445
+Million Dollar Baby,https://en.wikipedia.org/wiki/Million_Dollar_Baby,1,0,0,0,0,1,0,0,0,0,UA,8.1,86,132,2004,3.9,8.4,Warner Bros.,100492203,Sports,216763646
+The Aviator,https://en.wikipedia.org/wiki/The_Aviator_(2004_film),0,0,0,1,1,0,0,1,0,0,UA,7.5,77,170,2004,3.5,7.8,Miramax,102610330,Period,213741459
+Finding Neverland,https://en.wikipedia.org/wiki/Finding_Neverland_(film),0,0,0,0,0,0,0,0,0,0,PG,7.7,67,106,2004,3.8,7.5,Miramax,51680613,Period,116766556
+Ray,https://en.wikipedia.org/wiki/Ray_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.7,73,212,2004,3.9,7.3,Universal,75331600,Musical,124731534
+Sideways,https://en.wikipedia.org/wiki/Sideways,0,1,1,0,0,0,1,0,1,0,R,7.5,94,126,2004,3.5,8.5,Fox Searchlight,71503593,Comedy,109706931
+Crash,https://en.wikipedia.org/wiki/Crash_(2004_film),1,0,1,0,0,0,0,0,0,1,A,7.8,69,112,2004,3.9,7.3,Lions Gate,54580300,Drama,98410061
+Brokeback Mountain,https://en.wikipedia.org/wiki/Brokeback_Mountain,0,1,0,1,1,1,0,1,1,0,A,7.7,87,134,2005,3.5,8.2,Focus Features,83043761,Western,178062759
+Capote,https://en.wikipedia.org/wiki/Capote_(film),0,0,0,0,0,0,0,0,0,0,R,7.4,88,114,2005,3.6,8.2,Sony Classics,28750530,Drama,49233161
+"Good Night, and Good Luck","https://en.wikipedia.org/wiki/Good_Night,_and_Good_Luck",0,0,0,0,0,0,0,0,0,0,PG,7.5,80,93,2005,3.6,8.1,Warner Independent,31558003,Period,54641191
+Munich,https://en.wikipedia.org/wiki/Munich_(film),0,0,0,0,0,0,0,0,0,0,A,7.6,74,164,2005,3.6,7.4,Universal,47403685,Thriller,130358911
+The Departed,https://en.wikipedia.org/wiki/The_Departed,1,1,0,0,0,1,0,0,1,0,A,8.5,85,151,2006,4.2,8.2,Warner Bros.,132384315,Crime,291465034
+Babel,https://en.wikipedia.org/wiki/Babel_(film),0,0,0,0,0,0,0,1,0,0,R,7.5,69,143,2006,3.5,6.7,Paramount Vantage,34302837,Drama,135330182
+Letters from Iwo Jima,https://en.wikipedia.org/wiki/Letters_from_Iwo_Jima,0,0,0,0,0,0,0,0,0,0,R,7.9,89,141,2006,3.9,8.2,Warner Bros.,13756082,War,68673228
+Little Miss Sunshine,https://en.wikipedia.org/wiki/Little_Miss_Sunshine,0,0,1,0,1,0,0,0,0,1,R,7.8,80,101,2006,4,7.7,Fox Searchlight,59891098,Comedy,100523181
+The Queen,https://en.wikipedia.org/wiki/The_Queen_(film),0,0,0,1,0,0,0,0,0,0,PG-13,7.3,91,162,2006,3.5,8.4,Miramax,56441711,Drama,123384128
+No Country for Old Men,https://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film),1,1,1,0,1,1,0,0,1,0,R,8.1,91,122,2007,4,8.7,Miramax,74283625,Crime,171627166
+Atonement,https://en.wikipedia.org/wiki/Atonement_(film),0,0,0,1,0,0,0,1,0,0,R,7.8,85,123,2007,3.9,7.4,Focus Features,50927067,Period,129266061
+Juno,https://en.wikipedia.org/wiki/Juno_(film),0,0,0,0,0,0,0,0,0,1,PG-13,7.5,81,96,2007,4.2,8.1,Fox Searchlight,143495265,Comedy,231411584
+Michael Clayton,https://en.wikipedia.org/wiki/Michael_Clayton_(film),0,0,0,0,0,0,0,0,0,0,A,7.3,82,119,2007,3.5,7.6,Warner Bros.,49033882,Thriller,92991835
+There Will Be Blood,https://en.wikipedia.org/wiki/There_Will_Be_Blood,0,0,0,0,0,0,0,0,0,0,R,8.1,93,158,2007,4,8.4,Paramount Vantage,40222514,Drama,76181545
+Slumdog Millionaire,https://en.wikipedia.org/wiki/Slumdog_Millionaire,1,1,1,1,1,1,0,1,1,0,R,8,86,120,2008,4,8.4,Fox Searchlight,141319928,Drama,377910544
+The Curious Case of Benjamin Button,https://en.wikipedia.org/wiki/The_Curious_Case_of_Benjamin_Button_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.8,70,166,2008,3.8,7.1,Paramount,127509326,Fantasy,333932083
+Frost/Nixon,https://en.wikipedia.org/wiki/Frost/Nixon_(film),0,0,0,0,0,0,0,0,0,0,R,7.7,80,122,2008,3.9,7.9,Universal,18622031,Drama,27426335
+Milk,https://en.wikipedia.org/wiki/Milk_(film),0,0,0,0,0,0,0,0,0,1,R,7.6,84,128,2008,4,8,Focus Features,31841299,Drama,54586584
+The Reader,https://en.wikipedia.org/wiki/The_Reader_(2008_film),0,0,0,0,0,0,0,0,0,0,R,7.6,58,124,2008,3.8,6.4,Weinstein Company,34194407,Period,108901967
+The Hurt Locker,https://en.wikipedia.org/wiki/The_Hurt_Locker,1,1,0,1,1,1,0,0,0,1,R,7.6,94,131,2008,3.9,8.5,Summit Entertainment,17017811,War,49230772
+Avatar,https://en.wikipedia.org/wiki/Avatar_(2009_film),0,0,0,0,0,0,0,1,0,0,PG-13,7.8,83,162,2009,4.2,7.5,Fox,760507625,Sci-Fi,2787965087
+The Blind Side,https://en.wikipedia.org/wiki/The_Blind_Side_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.7,53,129,2009,4.2,6.1,Warner Bros.,255959475,Sports,309208309
+District 9,https://en.wikipedia.org/wiki/District_9,0,0,0,0,0,0,0,0,0,0,A,8,81,112,2009,3.5,7.8,TriStar,115646235,Sci-Fi,210819611
+An Education,https://en.wikipedia.org/wiki/An_Education,0,0,0,0,0,0,0,0,0,0,PG-13,7.3,85,100,2009,3.9,7.9,Sony Classics,12574914,Period,26096852
+Inglourious Basterds,https://en.wikipedia.org/wiki/Inglourious_Basterds,0,0,1,0,0,0,0,0,0,0,A,8.3,69,153,2009,4,7.8,Weinstein Company,120540719,War,321455689
+Precious,https://en.wikipedia.org/wiki/Precious_(film),0,0,0,0,0,0,0,0,0,0,R,7.3,79,110,2009,3.6,7.8,Lions Gate,47566524,Drama,63647833
+A Serious Man,https://en.wikipedia.org/wiki/A_Serious_Man,0,0,0,0,0,0,0,0,0,0,R,7,79,106,2009,3.5,7.9,Focus Features,9228768,Comedy,31430334
+Up,https://en.wikipedia.org/wiki/Up_(2009_film),0,0,0,0,0,0,0,0,0,0,PG,8.3,88,96,2009,3.9,8.7,Buena Vista,293004164,Animation,735099082
+Up in the Air,https://en.wikipedia.org/wiki/Up_in_the_Air_(2009_film),0,0,0,0,0,0,0,0,1,0,R,7.4,83,109,2009,3.8,8.1,Paramount,83823381,Comedy,166842739
+The King's Speech,https://en.wikipedia.org/wiki/The_King%27s_Speech,1,0,1,1,1,1,0,0,0,0,R,8,88,118,2010,4.3,8.6,Weinstein Company,138797449,Drama,414211549
+127 Hours,https://en.wikipedia.org/wiki/127_Hours,0,0,0,0,0,0,0,0,0,0,R,7.6,82,94,2010,4,8.3,Fox Searchlight,18335230,Drama,60738797
+Black Swan,https://en.wikipedia.org/wiki/Black_Swan_(film),0,0,0,0,0,0,0,0,0,0,R,8,79,108,2010,4,8.2,Fox Searchlight,106954678,Thriller,329398046
+The Fighter,https://en.wikipedia.org/wiki/The_Fighter,0,0,0,0,0,0,0,0,0,0,R,7.8,79,116,2010,4.2,7.8,Paramount,93617009,Sports,129190869
+Inception,https://en.wikipedia.org/wiki/Inception,0,0,0,0,0,0,0,0,0,1,UA,8.8,74,148,2010,4.2,8.1,Warner Bros.,292576195,Sci-Fi,828322032
+The Kids Are All Right,https://en.wikipedia.org/wiki/The_Kids_Are_All_Right_(film),0,0,0,0,0,0,1,0,0,0,R,7,86,106,2010,3.6,7.8,Focus Features,20811365,Comedy,34705850
+The Social Network,https://en.wikipedia.org/wiki/The_Social_Network,0,1,0,0,0,0,0,1,1,0,PG-13,7.7,95,120,2010,4.2,9,Sony / Columbia,96962694,Comedy,224920315
+Toy Story 3,https://en.wikipedia.org/wiki/Toy_Story_3,0,0,0,0,0,0,0,0,0,0,U,8.3,92,103,2010,4.3,8.9,Buena Vista,415004880,Animation,1066969703
+True Grit,https://en.wikipedia.org/wiki/True_Grit_(2010_film),0,0,0,0,0,0,0,0,0,0,PG-13,7.6,80,110,2010,4,8.3,Paramount,171243005,Western,252276927
+Winter's Bone,https://en.wikipedia.org/wiki/Winter%27s_Bone,0,0,0,0,0,0,0,0,0,0,R,7.2,90,100,2010,3.8,8.3,Roadside Attractions,6531503,Drama,13796834
+The Artist,https://en.wikipedia.org/wiki/The_Artist_(film),1,1,0,1,1,1,1,0,0,0,U,7.9,89,100,2011,4.2,8.8,A24,21101724,Comedy,28801724
+The Descendants,https://en.wikipedia.org/wiki/The_Descendants,0,0,0,0,0,0,0,1,1,0,A,7.3,84,115,2011,3.9,8.1,Fox Searchlight,82584160,Comedy,177243185
+Extremely Loud & Incredibly Close,https://en.wikipedia.org/wiki/Extremely_Loud_%26_Incredibly_Close_(film),0,0,0,0,0,0,0,0,0,0,PG-13,6.9,46,129,2011,3.5,5.5,Warner Bros.,31847881,Drama,55247881
+The Help,https://en.wikipedia.org/wiki/The_Help_(film),0,0,1,0,0,0,0,0,0,0,UA,8.1,62,146,2011,4.2,7,Buena Vista,169708112,Drama,216639112
+Hugo,https://en.wikipedia.org/wiki/Hugo_(film),0,0,0,0,0,0,0,0,0,0,U,7.5,83,126,2011,4,8.3,Paramount,73864507,Fantasy,185770160
+Midnight in Paris,https://en.wikipedia.org/wiki/Midnight_in_Paris,0,0,0,0,0,0,0,0,0,1,PG-13,7.7,81,94,2011,4,7.8,Sony Classics,56817045,Romance,151119219
+Moneyball,https://en.wikipedia.org/wiki/Moneyball_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.6,87,133,2011,4,8,Sony / Columbia,75605492,Sports,110206216
+The Tree of Life,https://en.wikipedia.org/wiki/The_Tree_of_Life_(film),0,0,0,0,0,0,0,0,0,0,PG-13,6.8,85,139,2011,3.4,8.1,Fox Searchlight,13303319,Drama,54303319
+War Horse,https://en.wikipedia.org/wiki/War_Horse_(film),0,0,0,0,0,0,0,0,0,0,U,7.2,72,146,2011,3.9,7,Buena Vista,79884879,War,177584879
+Argo,https://en.wikipedia.org/wiki/Argo_(2012_film),1,1,1,1,1,1,0,1,1,0,A,7.7,86,120,2012,4.2,8.4,Warner Bros.,136025503,Thriller,232325503
+Amour,https://en.wikipedia.org/wiki/Amour_(2012_film),0,0,0,0,0,0,0,0,0,0,UA,7.9,94,127,2012,4,8.7,Sony Classics,6739492,Foreign,19839492
+Beasts of the Southern Wild,https://en.wikipedia.org/wiki/Beasts_of_the_Southern_Wild,0,0,0,0,0,0,0,0,0,0,PG-13,7.3,86,93,2012,3.9,8.2,Fox Searchlight,12795746,Drama,21107746
+Django Unchained,https://en.wikipedia.org/wiki/Django_Unchained,0,0,0,0,0,0,0,0,0,0,A,8.4,81,165,2012,4.3,8,Weinstein Company,162805434,Western,425368238
+Les Miserables,https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film),0,0,0,0,0,0,1,0,0,0,A,7.6,63,158,2012,4,6.9,Universal,148809770,Musical,441809770
+Life of Pi,https://en.wikipedia.org/wiki/Life_of_Pi_(film),0,0,0,0,0,0,0,0,0,0,U,7.9,79,127,2012,4.2,7.9,Fox,124987023,Fantasy,609016565
+Lincoln,https://en.wikipedia.org/wiki/Lincoln_(film),0,0,0,0,0,0,0,0,0,0,U,7.4,86,150,2012,4,8,Buena Vista,182207973,Drama,275293450
+Silver Linings Playbook,https://en.wikipedia.org/wiki/Silver_Linings_Playbook,0,0,0,0,0,0,0,0,0,0,R,7.8,81,122,2012,4.2,8.2,Weinstein Company,132092958,Comedy,236412453
+Zero Dark Thirty,https://en.wikipedia.org/wiki/Zero_Dark_Thirty,0,0,0,0,0,0,0,0,0,1,A,7.4,95,157,2012,4,8.6,Sony / Columbia,95720716,Thriller,132820716
+12 Years a Slave,https://en.wikipedia.org/wiki/12_Years_a_Slave_(film),1,1,0,1,1,0,0,1,0,0,A,8.1,96,134,2013,4.3,8.9,Fox Searchlight,56671993,Drama,187733202
+American Hustle,https://en.wikipedia.org/wiki/American_Hustle,0,0,1,0,0,0,1,0,0,0,A,7.3,90,138,2013,3.9,8.2,Sony / Columbia,150117807,Drama,251171807
+Captain Phillips,https://en.wikipedia.org/wiki/Captain_Phillips_(film),0,0,0,0,0,0,0,0,1,0,UA,7.8,83,134,2013,4.2,8.3,Sony / Columbia,107100855,Drama,218791811
+Dallas Buyers Club,https://en.wikipedia.org/wiki/Dallas_Buyers_Club,0,0,0,0,0,0,0,0,0,0,R,8,84,117,2013,4.2,7.8,Focus Features,27298285,Drama,55198285
+Gravity,https://en.wikipedia.org/wiki/Gravity_(2013_film),0,0,0,0,1,1,0,0,0,0,UA,7.8,96,91,2013,4,9,Warner Bros.,274092705,Sci-Fi,723192705
+Her,https://en.wikipedia.org/wiki/Her_(film),0,0,0,0,0,0,0,0,0,1,A,8,90,126,2013,4,8.5,Warner Bros.,25568251,Comedy,47351251
+Nebraska,https://en.wikipedia.org/wiki/Nebraska_(film),0,0,0,0,0,0,0,0,0,0,UA,7.7,86,115,2013,4,8.1,Paramount,17654912,Comedy,27682872
+Philomena,https://en.wikipedia.org/wiki/Philomena_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.6,77,98,2013,4.2,7.8,Weinstein Company,37709979,Drama,100129872
+The Wolf of Wall Street,https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film),0,0,0,0,0,0,0,0,0,0,A,8.2,75,180,2013,4,7.8,Paramount,116900694,Drama,392000694
+Birdman,https://en.wikipedia.org/wiki/Birdman_(film),1,0,0,0,1,1,0,0,0,0,A,7.8,88,119,2014,4,8.5,Fox Searchlight,42340598,Comedy,103215094
+American Sniper,https://en.wikipedia.org/wiki/American_Sniper,0,0,0,0,0,0,0,0,0,0,R,7.3,72,133,2014,4.2,6.9,Warner Bros.,350126372,Drama,547426372
+Boyhood,https://en.wikipedia.org/wiki/Boyhood_(film),0,1,0,1,0,0,0,1,0,0,A,7.9,100,165,2014,4,9.2,IFC,25352281,Drama,44495281
+The Grand Budapest Hotel,https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel,0,0,0,0,0,0,1,0,0,1,R,8.1,88,99,2014,4.2,8.4,Fox Searchlight,59301324,Comedy,174801324
+The Imitation Game,https://en.wikipedia.org/wiki/The_Imitation_Game,0,0,0,0,0,0,0,0,1,0,PG-13,8,73,114,2014,4.2,7.7,Weinstein Company,91125683,Drama,233555708
+Selma,https://en.wikipedia.org/wiki/Selma_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.5,89,128,2014,4.2,8.7,Paramount,52076908,Drama,66787908
+The Theory of Everything,https://en.wikipedia.org/wiki/The_Theory_of_Everything_(2014_film),0,0,0,0,0,0,0,0,0,0,PG-13,7.7,72,123,2014,4,7.3,Focus Features,35893537,Drama,123726688
+Whiplash,https://en.wikipedia.org/wiki/Whiplash_(2014_film),0,0,0,0,0,0,0,0,0,0,A,8.5,88,107,2014,4.5,8.6,Sony Classics,13092000,Drama,48982041
+Spotlight,https://en.wikipedia.org/wiki/Spotlight_(film),1,1,1,0,0,0,0,0,0,1,R,8.1,93,128,2015,4.3,8.8,Open Road Films,45055776,Drama,88346473
+The Big Short,https://en.wikipedia.org/wiki/The_Big_Short_(film),0,0,0,0,1,0,0,0,1,0,R,7.8,81,130,2015,4.2,7.8,Paramount,70259870,Drama,133440870
+Bridge of Spies,https://en.wikipedia.org/wiki/Bridge_of_Spies_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.6,81,142,2015,4,7.7,Buena Vista,72313754,Thriller,165478348
+Brooklyn,https://en.wikipedia.org/wiki/Brooklyn_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.5,87,117,2015,4.2,8.4,Fox Searchlight,38322743,Drama,62076141
+Mad Max: Fury Road,https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road,0,0,0,0,0,0,0,0,0,0,UA,8.1,90,120,2015,4.2,8.6,Warner Bros.,154058340,Sci-Fi,378858340
+The Martian,https://en.wikipedia.org/wiki/The_Martian_(film),0,0,0,0,0,0,1,0,0,0,UA,8,80,144,2015,4.3,7.8,Fox,228433663,Sci-Fi,630161890
+The Revenant,https://en.wikipedia.org/wiki/The_Revenant_(2015_film),0,0,0,1,0,1,0,1,0,0,A,8,76,156,2015,4.2,7.9,Fox,183637894,Action,532950503
+Room,https://en.wikipedia.org/wiki/Room_(2015_film),0,0,0,0,0,0,0,0,0,0,R,8.2,86,118,2015,4.3,8.4,A24,14677654,Drama,35401758
+Moonlight,https://en.wikipedia.org/wiki/Moonlight_(2016_film),1,0,0,0,0,0,0,1,0,1,R,7.5,99,111,2016,4,9,A24,27854932,Drama,65046687
+Arrival,https://en.wikipedia.org/wiki/Arrival_(film),0,0,0,0,0,0,0,0,1,0,UA,7.9,81,116,2016,4,8.4,Paramount,100546139,Sci-Fi,203388186
+Fences,https://en.wikipedia.org/wiki/Fences_(film),0,0,0,0,0,0,0,0,0,0,UA,7.2,79,139,2016,3.9,7.7,Paramount,57682904,Drama,64414761
+Hacksaw Ridge,https://en.wikipedia.org/wiki/Hacksaw_Ridge,0,0,0,0,0,0,0,0,0,0,R,8.2,71,139,2016,4.3,7.2,Lions Gate,67209615,Action,175302354
+Hell or High Water,https://en.wikipedia.org/wiki/Hell_or_High_Water_(film),0,0,0,0,0,0,0,0,0,0,R,7.6,88,102,2016,4.2,8.5,Lions Gate,27007844,Action,37879877
+Hidden Figures,https://en.wikipedia.org/wiki/Hidden_Figures,0,0,1,0,0,0,0,0,0,0,PG,7.8,74,127,2016,4.5,7.6,Fox,169607287,Drama,235950607
+La La Land,https://en.wikipedia.org/wiki/La_La_Land_(film),0,1,0,1,1,1,1,0,0,0,A,8.1,93,128,2016,4.2,8.7,Summit Entertainment,151101803,Musical,446090184
+Lion,https://en.wikipedia.org/wiki/Lion_(2016_film),0,0,0,0,0,0,0,0,0,0,PG-13,8.1,69,118,2016,4.3,7.3,Weinstein Company,51738905,Drama,140312928
+Manchester by the Sea,https://en.wikipedia.org/wiki/Manchester_by_the_Sea_(film),0,0,0,0,0,0,0,0,0,0,R,7.9,96,137,2016,4,8.8,Roadside Attractions,47695371,Drama,77540122
+Call Me by Your Name,https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film),0,0,0,0,0,0,0,0,1,0,R,8.2,93,132,2017,4.3,8.7,Sony Classics,15240910,Drama,27680888
+Darkest Hour,https://en.wikipedia.org/wiki/Darkest_Hour_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.4,75,125,2017,4,7.4,Focus Features,53719842,Drama,134919842
+Dunkirk,https://en.wikipedia.org/wiki/Dunkirk_(2017_film),0,0,0,0,0,0,0,0,0,0,PG-13,8,94,106,2017,4,8.6,Warner Bros.,188373161,War,525573161
+Get Out,https://en.wikipedia.org/wiki/Get_Out,0,0,0,0,0,0,0,0,0,1,R,7.7,84,104,2017,4.2,8.3,Universal,176040665,Horror,255017329
+Lady Bird,https://en.wikipedia.org/wiki/Lady_Bird_(film),0,0,0,0,0,0,1,0,0,0,R,7.7,94,94,2017,4,8.7,A24,46632130,Comedy,52232130
+Phantom Thread,https://en.wikipedia.org/wiki/Phantom_Thread,0,0,0,0,0,0,0,0,0,0,R,7.9,90,130,2017,3.8,8.5,Focus Features,18152094,Drama,32252094
+The Post,https://en.wikipedia.org/wiki/The_Post_(film),0,0,0,0,0,0,0,0,0,0,PG-13,7.3,83,116,2017,3.8,7.9,Fox,77963001,Drama,135963001
+The Shape of Water,https://en.wikipedia.org/wiki/The_Shape_of_Water_(film),0,1,0,0,1,1,0,0,0,0,R,7.8,87,123,2017,3.9,8.4,Fox Searchlight,54480844,Fantasy,95762358
+"Three Billboards Outside Ebbing, Missouri","https://en.wikipedia.org/wiki/Three_Billboards_Outside_Ebbing,_Missouri",0,0,1,1,0,0,0,1,0,0,R,8.3,88,115,2017,4.2,8.5,Fox Searchlight,49189579,Crime,114644508
