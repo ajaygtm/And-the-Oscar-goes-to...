@@ -1,14 +1,14 @@
 # And-the-Oscar-goes-to...
 
-Even though we already know [the answer](https://www.youtube.com/watch?v=aboZctrHfK8) to the "Ultimate Question of Life, the Universe, and Everything", calculated by an enormous supercomputer named _Deep Thought_ over a period of 7.5 million years, it is not particularly helpful when it comes to an important question of all time.
+Even though we already know [the answer](https://www.youtube.com/watch?v=aboZctrHfK8) to the "Ultimate Question of Life, the Universe, and Everything", calculated by an enormous supercomputer named __Deep Thought__ over a period of 7.5 million years, it is not particularly helpful when it comes to an important question of all time.
 
-#### "Who's gonna win the Oscar?"
+## "Who's gonna win the Oscar?"
   
-I thought of asking "Deep Thought". Well, you [know.](https://www.youtube.com/watch?v=ucKnpvPaAeM).
+I thought of asking __Deep Thought"__. Well, you [know.](https://www.youtube.com/watch?v=ucKnpvPaAeM).
 
 So I took this project to predict the Academy Awards (Oscar) winners for 2018 with the help of machine learning algorithms. 
 
-[Click ahead to skip to see what's in the results box](https://www.youtube.com/watch?v=1giVzxyoclE)
+[Click ahead to skip to see what's in my results box](https://www.youtube.com/watch?v=f9ypxDxlK0c)
 
 # Data
 
@@ -24,8 +24,13 @@ The categories considered for the project are:
 * Best Supporting ACtress
 
 
-# Analysis and Prediction:
+# Analysis:
 
+* Data Cleaning 
+* Preliminary Analysis 
+[Both Done](https://www.youtube.com/watch?v=0tJGk4ofc18).
+
+The corresponding code and the jupyter notebook are provided in the analysis folder.
 
 # Algorithms Used:
 
@@ -47,7 +52,8 @@ Actress | Frances McDormand | [Three Billboards Outside Ebbing, Missouri](https:
 Supporting Actor | Sam Rockwell | [Three Billboards Outside Ebbing, Missouri](https://www.youtube.com/watch?v=Jit3YhGx5pU) |
 Supporting Actress | Allison Janney | [I, Tonya](https://www.youtube.com/watch?v=OXZQ5DfSAAc)|
 
-Okay. Now, let's wait and see how my prediction turns out.
+Okay. Now, [let's wait and see how my predictions turn out.](https://www.youtube.com/watch?v=D_aQupiaCSA)
+
 
 ### Note
 I will update the "Winners" column once the results are announced. 
