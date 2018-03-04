@@ -2,11 +2,11 @@
 
 Even though we already know [the answer](https://www.youtube.com/watch?v=aboZctrHfK8) to the "Ultimate Question of Life, the Universe, and Everything", calculated by an enormous supercomputer named __Deep Thought__ over a period of 7.5 million years, it is not particularly helpful when it comes to an important question of all time.
 
-## "Who's gonna win the Oscar?"
+> __"Who's gonna win the Oscar?"__
   
 I thought of asking __Deep Thought"__. Well, you [know.](https://www.youtube.com/watch?v=ucKnpvPaAeM).
 
-So I took this project to predict the 90th Academy Awards winners (2018) with the help of machine learning algorithms. 
+So I took this project to predict the __90th Academy Awards winners (2018)__ with the help of machine learning algorithms. 
 
 [Click ahead to skip to see what's in my results box](https://www.youtube.com/watch?v=f9ypxDxlK0c)
 
