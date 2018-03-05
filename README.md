@@ -56,8 +56,7 @@ Supporting Actress | Allison Janney | [I, Tonya](https://www.youtube.com/watch?v
 Okay. Now, [let's wait and see how my predictions turn out.](https://www.youtube.com/watch?v=D_aQupiaCSA)
 
 
-### Note
-I will update the "Winners" column once the results are announced. 
+#### Note: I will update the "Winners" column once the results are announced. 
 
 
 
@@ -70,7 +69,7 @@ Well, well, well... Looks like [my predictions were spot-on.](https://www.youtub
 
 # Future Ideas:
 
-Even though the methodology and the implemented algorithm used in this project are sufficient enough to get an accurate prediction in the major categories, it can be further expanded. 
+Even though the methodology and algorithm used in this project are sufficient enough to get an accurate prediction in the major categories, it can be further expanded. 
 
 __Additional Categories:__ Screenplay, Animated Film, Documentary Film and so on.
 
@@ -81,7 +80,7 @@ Feel free to comment or make suggestions.
 
 
 
-### P.S: Only one thing remaining to do. Yea. [It's time to celeberate.](https://www.youtube.com/watch?v=nyepdtx_UI4)
+### P.S: Only one thing remaining to do. Yea. [It's time to celebrate.](https://www.youtube.com/watch?v=nyepdtx_UI4)
 
 
 
